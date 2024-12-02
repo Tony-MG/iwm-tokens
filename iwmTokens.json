@@ -413,51 +413,51 @@
     "Numbers": {
       "None": {
         "value": "0",
-        "type": "other"
+        "type": "number"
       },
       "5XSmall": {
         "value": "1.5",
-        "type": "other"
+        "type": "number"
       },
       "4XSmall": {
         "value": "2",
-        "type": "other"
+        "type": "number"
       },
       "3XSmall": {
         "value": "4",
-        "type": "other"
+        "type": "number"
       },
       "2XSmall": {
         "value": "8",
-        "type": "other"
+        "type": "number"
       },
       "XSmall": {
         "value": "10",
-        "type": "other"
+        "type": "number"
       },
       "Small": {
         "value": "12",
-        "type": "other"
+        "type": "number"
       },
       "Small-Medium": {
         "value": "14",
-        "type": "other"
+        "type": "number"
       },
       "Medium": {
         "value": "16",
-        "type": "other"
+        "type": "number"
       },
       "Large": {
         "value": "24",
-        "type": "other"
+        "type": "number"
       },
       "XLarge": {
         "value": "32",
-        "type": "other"
+        "type": "number"
       },
       "2XLarge": {
         "value": "40",
-        "type": "other"
+        "type": "number"
       }
     },
     "Light Blue": {
