@@ -1,6 +1,148 @@
 {
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": []
+  "00 - Primitives Tokens": {
+    "Clay": {
+      "Clay-900": "#a14c41",
+      "Clay-800": "#ad594b",
+      "Clay-700": "#ba6956",
+      "Clay-600": "#ca7265",
+      "Clay-500": "#d2877b",
+      "Clay-400": "#da9d92",
+      "Clay-300": "#e4b8b1",
+      "Clay-200": "#f1dcd8",
+      "Clay-100": "#f6edec"
+    },
+    "Colvert": {
+      "Colvert-900": "#03383c",
+      "Colvert-800": "#05646b",
+      "Colvert-700": "#08919b",
+      "Colvert-600": "#14b5c2",
+      "Colvert-500": "#3bc4ce",
+      "Colvert-400": "#63d1d9",
+      "Colvert-300": "#85e3ea",
+      "Colvert-200": "#a8f5fb",
+      "Colvert-100": "#d8fafd"
+    },
+    "Fawn": {
+      "Fawn-900": "#5d4f41",
+      "Fawn-800": "#6c5c4b",
+      "Fawn-700": "#7a6855",
+      "Fawn-600": "#8a7660",
+      "Fawn-500": "#98836c",
+      "Fawn-400": "#a38f7b",
+      "Fawn-300": "#ad9c8a",
+      "Fawn-200": "#b8a999",
+      "Fawn-100": "#c2b5a8"
+    },
+    "Mouse Grey": {
+      "MouseGrey-900": "#242a2e",
+      "MouseGrey-800": "#3a444b",
+      "MouseGrey-700": "#516069",
+      "MouseGrey-600": "#667984",
+      "MouseGrey-500": "#80929d",
+      "MouseGrey-400": "#9dabb3",
+      "MouseGrey-300": "#bac4ca",
+      "MouseGrey-200": "#d7dce0",
+      "MouseGrey-100": "#f3f5f6"
+    },
+    "Colourless": {
+      "Black": "#1c1f24",
+      "DarkGrey": "#2a2c30",
+      "ColdGrey": "#71787a",
+      "LightGrey": "#aeaeae",
+      "MidStone": "#dedad4",
+      "XtraLightGrey": "#f2f2f1",
+      "LightStone": "#eceae6",
+      "White": "#ffffff",
+      "None": "#ffffff"
+    },
+    "Pine Green": {
+      "Pine Green-900": "#15382d",
+      "Pine Green-800": "#235f4c",
+      "Pine Green-700": "#308268",
+      "Pine Green-600": "#4a9c82",
+      "Pine Green-500": "#6eaa97",
+      "Pine Green-400": "#7dcfb5",
+      "Pine Green-300": "#a2ddca",
+      "Pine Green-200": "#c7eadf",
+      "Pine Green-100": "#ecf8f4"
+    },
+    "Plum": {
+      "Plum-900": "#231d25",
+      "Plum-800": "#3d3442",
+      "Plum-700": "#57495d",
+      "Plum-600": "#73607b",
+      "Plum-500": "#8d7996",
+      "Plum-400": "#a595ac",
+      "Plum-300": "#bdb2c2",
+      "Plum-200": "#d6ced9",
+      "Plum-100": "#eeebef"
+    },
+    "Red Wine": {
+      "Redwine-900": "#65233e",
+      "Redwine-800": "#762d44",
+      "Redwine-700": "#813248",
+      "Redwine-600": "#953d51",
+      "Redwine-500": "#a55a6b",
+      "Redwine-400": "#b57885",
+      "Redwine-300": "#c99da7",
+      "Redwine-200": "#e4ced3",
+      "Redwine-100": "#f0e9ec"
+    },
+    "Sand": {
+      "sand-900": "#382b14",
+      "sand-800": "#58431d",
+      "sand-700": "#836430",
+      "sand-600": "#a8813d",
+      "sand-500": "#c29a57",
+      "sand-400": "#cfb07b",
+      "sand-300": "#ddc7a1",
+      "sand-200": "#ebddc7",
+      "sand-100": "#f6f3ef"
+    },
+    "Sea Blue": {
+      "SeaBlue-900": "#033059",
+      "Seablue-800": "#12426d",
+      "Seablue-700": "#265c85",
+      "Seablue-600": "#4075a3",
+      "Seablue-500": "#5992c3",
+      "Seablue-400": "#6faadf",
+      "Seablue-300": "#7ebaf1",
+      "Seablue-200": "#9acbf8",
+      "Seablue-100": "#e6eaee"
+    },
+    "System": {
+      "Orange-500": "#f9b958",
+      "Red-500": "#b11f1f",
+      "Green-500": "#36ab57",
+      "Blue-500": "#0c66e4",
+      "Green-100": "#ecf9ef",
+      "Red-100": "#fbe9e9",
+      "Blue-100": "#e7f0fe"
+    },
+    "Numbers": {
+      "None": "0",
+      "5XSmall": "1.5",
+      "4XSmall": "2",
+      "3XSmall": "4",
+      "2XSmall": "8",
+      "XSmall": "10",
+      "Small": "12",
+      "Small-Medium": "14",
+      "Medium": "16",
+      "Large": "24",
+      "XLarge": "32",
+      "2XLarge": "40"
+    },
+    "Light Blue": "#54bbed",
+    "Purple": "#5b2cc2",
+    "Pink": "#cf43cd",
+    "Cherry": "#c70969",
+    "Deep Orange": "#f26448",
+    "Orange": "#ea8c3e",
+    "Light Green": "#acdc5a",
+    "Typography": {
+      "Urbanist": "Urbanist",
+      "Open sans": "Open sans"
+    }
   }
 }
