@@ -501,6 +501,10 @@
     "ColorTest": {
       "value": "#de00ff",
       "type": "color"
+    },
+    "test Number": {
+      "value": "1234567890",
+      "type": "number"
     }
   },
   "$themes": [],
