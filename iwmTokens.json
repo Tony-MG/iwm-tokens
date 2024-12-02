@@ -438,15 +438,13 @@
       "value": "#acdc5a",
       "type": "color"
     },
-    "Typography": {
-      "Urbanist": {
-        "value": "Urbanist",
-        "type": "color"
-      },
-      "Open sans": {
-        "value": "Open sans",
-        "type": "color"
-      }
+    "Urbanist": {
+      "value": "Urbanist",
+      "type": "typography"
+    },
+    "Open sans": {
+      "value": "Open sans",
+      "type": "typography"
     },
     "None": {
       "value": "0",
