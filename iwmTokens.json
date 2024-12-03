@@ -756,7 +756,17 @@
       "description": "Icons border width"
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "a1e32b3a67be7bac8feaab26d23bd29f8574522a",
+      "name": "IWM",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "00 - Primitives Tokens": "enabled",
+        "01 - Semantics": "enabled"
+      }
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "00 - Primitives Tokens",
