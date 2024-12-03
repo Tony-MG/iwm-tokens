@@ -511,180 +511,186 @@
       }
     },
     "Backgrounds": {
-      "Neutral_Separator": {
-        "value": "{Colourless.MidStone}",
-        "type": "color"
+      "Brand": {
+        "Primary": {
+          "value": "{Brand.Brand_Primary}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Brand.Brand_Secondary}",
+          "type": "color"
+        },
+        "Brand-900": {
+          "value": "{Fawn.Fawn-300}",
+          "type": "color"
+        },
+        "Brand-500": {
+          "value": "{Fawn.Fawn-500}",
+          "type": "color"
+        },
+        "Brand-100": {
+          "value": "{Fawn.Fawn-100}",
+          "type": "color"
+        }
       },
-      "Brand_Primary": {
-        "value": "{Brand.Brand_Primary}",
-        "type": "color"
+      "Colored": {
+        "Colored-100": {
+          "value": "{Fawn.Fawn-100}",
+          "type": "color"
+        },
+        "Colored-900": {
+          "value": "{Sand.Sand-300}",
+          "type": "color"
+        },
+        "Colored-500": {
+          "value": "{Sand.Sand-200}",
+          "type": "color"
+        }
       },
-      "Brand-Secondary": {
-        "value": "{Brand.Brand_Secondary}",
-        "type": "color"
-      },
-      "Neutral_Inactive": {
-        "value": "{Colourless.XtraLightGrey}",
-        "type": "color"
-      },
-      "Brand-900": {
-        "value": "{Fawn.Fawn-300}",
-        "type": "color"
-      },
-      "Brand-500": {
-        "value": "{Fawn.Fawn-500}",
-        "type": "color"
-      },
-      "Brand-100": {
-        "value": "{Fawn.Fawn-100}",
-        "type": "color"
-      },
-      "Colored-100": {
-        "value": "{Fawn.Fawn-100}",
-        "type": "color"
-      },
-      "Colored-900": {
-        "value": "{Sand.Sand-300}",
-        "type": "color"
-      },
-      "Colored-500": {
-        "value": "{Sand.Sand-200}",
-        "type": "color"
-      },
-      "Neutral-900": {
-        "value": "{Brand.Brand_Black}",
-        "type": "color"
-      },
-      "Neutral-800": {
-        "value": "#2a2c30",
-        "type": "color"
-      },
-      "Default": {
-        "value": "#ffffff",
-        "type": "color"
+      "Neutrals": {
+        "Neutral-900": {
+          "value": "{Brand.Brand_Black}",
+          "type": "color"
+        },
+        "Neutral-800": {
+          "value": "{Colourless.DarkGrey}",
+          "type": "color"
+        },
+        "Neutral_Separator": {
+          "value": "{Colourless.MidStone}",
+          "type": "color"
+        },
+        "Neutral_Inactive": {
+          "value": "{Colourless.XtraLightGrey}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{Colourless.White}",
+          "type": "color"
+        }
       }
     },
     "Stroke": {
       "Inactive": {
-        "value": "#dedad4",
+        "value": "{Colourless.MidStone}",
         "type": "color"
       },
       "Secondary": {
-        "value": "#cfb07b",
+        "value": "{Brand.Brand_Secondary}",
         "type": "color"
       },
       "Secondary-300": {
-        "value": "#ddc7a1",
+        "value": "{Sand.Sand-300}",
         "type": "color"
       },
       "Default": {
-        "value": "#aeaeae",
+        "value": "{Colourless.LightGrey}",
         "type": "color"
       },
       "Error": {
-        "value": "#b11f1f",
+        "value": "{System.Error-900}",
         "type": "color"
       },
       "Separator": {
-        "value": "#dedad4",
+        "value": "{Colourless.MidStone}",
         "type": "color"
       },
       "Neutral-900": {
-        "value": "#1c1f24",
+        "value": "{Colourless.Black}",
         "type": "color"
       },
       "Neutral-500": {
-        "value": "#71787a",
+        "value": "{Colourless.ColdGrey}",
         "type": "color"
       },
       "Neutral-100": {
-        "value": "#ffffff",
+        "value": "{Colourless.White}",
         "type": "color"
       }
     },
     "Texts": {
       "Default": {
-        "value": "#1c1f24",
+        "value": "{Colourless.Black}",
         "type": "color"
       },
       "Hightlight-Primary": {
-        "value": "#7a6855",
+        "value": "{Brand.Brand_Primary}",
         "type": "color"
       },
       "Highlight-Secondary": {
-        "value": "#cfb07b",
+        "value": "{Brand.Brand_Secondary}",
         "type": "color"
       },
       "Help": {
-        "value": "#2a2c30",
+        "value": "{Neutrals.Neutral_Dark-Grey}",
         "type": "color"
       },
       "Inactive": {
-        "value": "#71787a",
+        "value": "{Neutrals.Neutral_Cold-Grey}",
         "type": "color"
       },
       "Neutral-Light-Grey": {
-        "value": "#aeaeae",
+        "value": "{Colourless.LightGrey}",
         "type": "color"
       },
       "Neutral_Xtra-Light-Grey": {
-        "value": "#f2f2f1",
+        "value": "{Colourless.XtraLightGrey}",
         "type": "color"
       },
       "Neutral-White": {
-        "value": "#ffffff",
+        "value": "{Neutrals.Neutral_White}",
         "type": "color"
       }
     },
     "Neutrals": {
       "Neutral_Black": {
-        "value": "#1c1f24",
+        "value": "{Colourless.Black}",
         "type": "color"
       },
       "Neutral_Dark-Grey": {
-        "value": "#2a2c30",
+        "value": "{Colourless.DarkGrey}",
         "type": "color"
       },
       "Neutral_Cold-Grey": {
-        "value": "#71787a",
+        "value": "{Colourless.ColdGrey}",
         "type": "color"
       },
       "Neutral_Light-Grey": {
-        "value": "#aeaeae",
+        "value": "{Colourless.LightGrey}",
         "type": "color"
       },
       "Neutral_Xtra-Light-Grey": {
-        "value": "#f2f2f1",
+        "value": "{Colourless.XtraLightGrey}",
         "type": "color"
       },
       "Neutral_White": {
-        "value": "#ffffff",
+        "value": "{Colourless.White}",
         "type": "color"
       }
     },
     "System": {
       "Error-900": {
-        "value": "#b11f1f",
+        "value": "{System.Red-500}",
         "type": "color"
       },
       "Error-100": {
-        "value": "#fbe9e9",
+        "value": "{System.Red-100}",
         "type": "color"
       },
       "Valid-900": {
-        "value": "#36ab57",
+        "value": "{System.Green-500}",
         "type": "color"
       },
       "Valid-100": {
-        "value": "#ecf9ef",
+        "value": "{System.Green-100}",
         "type": "color"
       },
       "Infomational-900": {
-        "value": "#0c66e4",
+        "value": "{System.Blue-500}",
         "type": "color"
       },
       "Informational-100": {
-        "value": "#e7f0fe",
+        "value": "{System.Blue-100}",
         "type": "color"
       }
     },
@@ -747,11 +753,11 @@
       "type": "typography"
     },
     "Secondary_Content": {
-      "value": "Urbanist",
+      "value": "{Urbanist}",
       "type": "typography"
     },
     "Icons": {
-      "value": "1.5",
+      "value": "{5XSmall}",
       "type": "borderWidth",
       "description": "Icons border width"
     }
