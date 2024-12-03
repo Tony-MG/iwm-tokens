@@ -696,56 +696,56 @@
     },
     "spacing": {
       "None": {
-        "value": "0px",
+        "value": "{None}",
         "type": "spacing"
       },
       "4xsmall": {
-        "value": "2px",
+        "value": "{4XSmall}",
         "type": "spacing"
       },
       "3xsmall": {
-        "value": "4px",
+        "value": "{3XSmall}",
         "type": "spacing"
       },
       "2xsmall": {
-        "value": "8px",
+        "value": "{2XSmall}",
         "type": "spacing"
       },
       "Medium": {
-        "value": "16px",
+        "value": "{Medium}",
         "type": "spacing"
       },
       "Large": {
-        "value": "24px",
+        "value": "{Large}",
         "type": "spacing"
       },
       "Xlarge": {
-        "value": "32px",
+        "value": "{XLarge}",
         "type": "spacing"
       },
       "Xxlarge": {
-        "value": "40px",
+        "value": "{2XLarge}",
         "type": "spacing"
       }
     },
-    "None": {
-      "value": "0px",
+    "br_None": {
+      "value": "{None}",
       "type": "border-radius"
     },
-    "Xsmall": {
-      "value": "4px",
+    "br_Xsmall": {
+      "value": "{XSmall}",
       "type": "border-radius"
     },
-    "Small": {
-      "value": "8px",
+    "br_Small": {
+      "value": "{Small}",
       "type": "border-radius"
     },
-    "Medium": {
-      "value": "12px",
+    "br_Medium": {
+      "value": "{Medium}",
       "type": "border-radius"
     },
-    "Large": {
-      "value": "16px",
+    "br_Large": {
+      "value": "{Large}",
       "type": "border-radius"
     },
     "Main_Content": {
