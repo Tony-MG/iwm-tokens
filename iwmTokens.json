@@ -497,15 +497,15 @@
   },
   "01 - Semantics": {
     "col-brand": {
-      "Brand_Primary-Black": {
+      "Brand_Black": {
         "value": "{Colourless.Black}",
         "type": "color"
       },
-      "brand_primary": {
+      "Brand_Primary": {
         "value": "{Fawn.Fawn-700}",
         "type": "color"
       },
-      "brand_secondary": {
+      "Brand_Secondary": {
         "value": "{Sand.Sand-400}",
         "type": "color"
       }
@@ -516,11 +516,11 @@
         "type": "color"
       },
       "bg-brand_primary": {
-        "value": "{col-brand.brand_primary}",
+        "value": "{col-brand.Brand_Primary}",
         "type": "color"
       },
       "bg-brand-secondary": {
-        "value": "{col-brand.brand_secondary}",
+        "value": "{col-brand.Brand_Secondary}",
         "type": "color"
       },
       "bg-neutral_inactive": {
@@ -552,7 +552,7 @@
         "type": "color"
       },
       "col-bg-neutral-900": {
-        "value": "{col-brand.Brand_Primary-Black}",
+        "value": "{col-brand.Brand_Black}",
         "type": "color"
       },
       "col-bg-neutral-800": {
