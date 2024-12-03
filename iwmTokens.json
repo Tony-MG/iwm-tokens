@@ -722,27 +722,25 @@
         "type": "spacing"
       }
     },
-    "border-radius": {
-      "border-radius-none": {
-        "value": "0px",
-        "type": "border-radius"
-      },
-      "border-radius-xsmall": {
-        "value": "4px",
-        "type": "border-radius"
-      },
-      "border-radius-small": {
-        "value": "8px",
-        "type": "border-radius"
-      },
-      "border-radius-medium": {
-        "value": "12px",
-        "type": "border-radius"
-      },
-      "border-radius_large": {
-        "value": "16px",
-        "type": "border-radius"
-      }
+    "None": {
+      "value": "0px",
+      "type": "border-radius"
+    },
+    "Xsmall": {
+      "value": "4px",
+      "type": "border-radius"
+    },
+    "Small": {
+      "value": "8px",
+      "type": "border-radius"
+    },
+    "Medium": {
+      "value": "12px",
+      "type": "border-radius"
+    },
+    "Large": {
+      "value": "16px",
+      "type": "border-radius"
     },
     "icon_stroke_width": {
       "value": "1.5px",
