@@ -305,39 +305,39 @@
       }
     },
     "Sand": {
-      "sand-900": {
+      "Sand-900": {
         "value": "#382b14",
         "type": "color"
       },
-      "sand-800": {
+      "Sand-800": {
         "value": "#58431d",
         "type": "color"
       },
-      "sand-700": {
+      "Sand-700": {
         "value": "#836430",
         "type": "color"
       },
-      "sand-600": {
+      "Sand-600": {
         "value": "#a8813d",
         "type": "color"
       },
-      "sand-500": {
+      "Sand-500": {
         "value": "#c29a57",
         "type": "color"
       },
-      "sand-400": {
+      "Sand-400": {
         "value": "#cfb07b",
         "type": "color"
       },
-      "sand-300": {
+      "Sand-300": {
         "value": "#ddc7a1",
         "type": "color"
       },
-      "sand-200": {
+      "Sand-200": {
         "value": "#ebddc7",
         "type": "color"
       },
-      "sand-100": {
+      "Sand-100": {
         "value": "#f6f3ef",
         "type": "color"
       }
@@ -506,7 +506,7 @@
         "type": "color"
       },
       "brand_secondary": {
-        "value": "{Sand.sand-400}",
+        "value": "{Sand.Sand-400}",
         "type": "color"
       }
     },
@@ -540,19 +540,19 @@
         "type": "color"
       },
       "col-bg-colored-100": {
-        "value": "{Sand.Sand-100}",
+        "value": "{Fawn.Fawn-100}",
         "type": "color"
       },
       "col-bg-colored-900": {
-        "value": "Sand.Sand-300",
+        "value": "{Sand.Sand-300}",
         "type": "color"
       },
       "col-bg-colored-500": {
-        "value": "Sand.Sand-200",
+        "value": "{Sand.Sand-200}",
         "type": "color"
       },
       "col-bg-neutral-900": {
-        "value": "{Col-Brand.Brand_Primary-Black}",
+        "value": "{col-brand.Brand_Primary-Black}",
         "type": "color"
       },
       "col-bg-neutral-800": {
