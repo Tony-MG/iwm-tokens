@@ -742,10 +742,6 @@
       "value": "16px",
       "type": "border-radius"
     },
-    "icon_stroke_width": {
-      "value": "1.5px",
-      "type": "other"
-    },
     "Main_Content": {
       "value": "{Open sans}",
       "type": "typography"
@@ -753,6 +749,11 @@
     "Secondary_Content": {
       "value": "Urbanist",
       "type": "typography"
+    },
+    "Icons": {
+      "value": "1.5",
+      "type": "borderWidth",
+      "description": "Icons border width"
     }
   },
   "$themes": [],
