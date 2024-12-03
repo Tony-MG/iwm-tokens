@@ -496,7 +496,7 @@
     }
   },
   "01 - Semantics": {
-    "col-brand": {
+    "Brand": {
       "Brand_Black": {
         "value": "{Colourless.Black}",
         "type": "color"
@@ -510,17 +510,17 @@
         "type": "color"
       }
     },
-    "col-background": {
+    "Backgrounds": {
       "bg-Neutral_Separator": {
         "value": "{Colourless.MidStone}",
         "type": "color"
       },
       "bg-brand_primary": {
-        "value": "{col-brand.Brand_Primary}",
+        "value": "{Brand.Brand_Primary}",
         "type": "color"
       },
       "bg-brand-secondary": {
-        "value": "{col-brand.Brand_Secondary}",
+        "value": "{Brand.Brand_Secondary}",
         "type": "color"
       },
       "bg-neutral_inactive": {
@@ -552,7 +552,7 @@
         "type": "color"
       },
       "col-bg-neutral-900": {
-        "value": "{col-brand.Brand_Black}",
+        "value": "{Brand.Brand_Black}",
         "type": "color"
       },
       "col-bg-neutral-800": {
@@ -564,7 +564,7 @@
         "type": "color"
       }
     },
-    "col-stroke": {
+    "Stroke": {
       "col-stroke-inactive": {
         "value": "#dedad4",
         "type": "color"
@@ -602,7 +602,7 @@
         "type": "color"
       }
     },
-    "col-text": {
+    "Texts": {
       "col-text-default": {
         "value": "#1c1f24",
         "type": "color"
@@ -636,7 +636,7 @@
         "type": "color"
       }
     },
-    "col-neutrals": {
+    "Neutrals": {
       "col-neutral_black": {
         "value": "#1c1f24",
         "type": "color"
@@ -662,7 +662,7 @@
         "type": "color"
       }
     },
-    "col-system": {
+    "System": {
       "col-sys-error-900": {
         "value": "#b11f1f",
         "type": "color"
@@ -748,15 +748,13 @@
       "value": "1.5px",
       "type": "other"
     },
-    "fonts": {
-      "main_content": {
-        "value": "{Open sans}",
-        "type": "typography"
-      },
-      "secondary_content": {
-        "value": "Urbanist",
-        "type": "typography"
-      }
+    "main_content": {
+      "value": "{Open sans}",
+      "type": "typography"
+    },
+    "secondary_content": {
+      "value": "Urbanist",
+      "type": "typography"
     }
   },
   "$themes": [],
