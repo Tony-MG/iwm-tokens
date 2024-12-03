@@ -495,10 +495,18 @@
       "type": "number"
     }
   },
+  "01 - Semantics": {
+    "Test Brand Primary": {
+      "value": "{Fawn.Fawn-700}",
+      "type": "color",
+      "description": "Main color of IWM branding"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "00 - Primitives Tokens"
+      "00 - Primitives Tokens",
+      "01 - Semantics"
     ]
   }
 }
