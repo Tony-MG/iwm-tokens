@@ -497,7 +497,7 @@
   },
   "01 - Semantics": {
     "col-brand": {
-      "brand_primary-black": {
+      "Brand_Primary-Black": {
         "value": "{Colourless.Black}",
         "type": "color"
       },
@@ -511,7 +511,7 @@
       }
     },
     "col-background": {
-      "bg-neutral_separator": {
+      "bg-Neutral_Separator": {
         "value": "{Colourless.MidStone}",
         "type": "color"
       },
@@ -536,23 +536,23 @@
         "type": "color"
       },
       "col-bg-brand-100": {
-        "value": "#c2b5a8",
+        "value": "{Fawn.Fawn-100}",
         "type": "color"
       },
       "col-bg-colored-100": {
-        "value": "#f6f3ef",
+        "value": "{Sand.Sand-100}",
         "type": "color"
       },
       "col-bg-colored-900": {
-        "value": "#ddc7a1",
+        "value": "Sand.Sand-300",
         "type": "color"
       },
       "col-bg-colored-500": {
-        "value": "#ebddc7",
+        "value": "Sand.Sand-200",
         "type": "color"
       },
       "col-bg-neutral-900": {
-        "value": "#1c1f24",
+        "value": "{Col-Brand.Brand_Primary-Black}",
         "type": "color"
       },
       "col-bg-neutral-800": {
