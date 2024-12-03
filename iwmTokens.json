@@ -511,213 +511,213 @@
       }
     },
     "Backgrounds": {
-      "bg-Neutral_Separator": {
+      "Neutral_Separator": {
         "value": "{Colourless.MidStone}",
         "type": "color"
       },
-      "bg-brand_primary": {
+      "Brand_Primary": {
         "value": "{Brand.Brand_Primary}",
         "type": "color"
       },
-      "bg-brand-secondary": {
+      "Brand-Secondary": {
         "value": "{Brand.Brand_Secondary}",
         "type": "color"
       },
-      "bg-neutral_inactive": {
+      "Neutral_Inactive": {
         "value": "{Colourless.XtraLightGrey}",
         "type": "color"
       },
-      "bg-brand-900": {
+      "Brand-900": {
         "value": "{Fawn.Fawn-300}",
         "type": "color"
       },
-      "bg-brand-500": {
+      "Brand-500": {
         "value": "{Fawn.Fawn-500}",
         "type": "color"
       },
-      "col-bg-brand-100": {
+      "Brand-100": {
         "value": "{Fawn.Fawn-100}",
         "type": "color"
       },
-      "col-bg-colored-100": {
+      "Colored-100": {
         "value": "{Fawn.Fawn-100}",
         "type": "color"
       },
-      "col-bg-colored-900": {
+      "Colored-900": {
         "value": "{Sand.Sand-300}",
         "type": "color"
       },
-      "col-bg-colored-500": {
+      "Colored-500": {
         "value": "{Sand.Sand-200}",
         "type": "color"
       },
-      "col-bg-neutral-900": {
+      "Neutral-900": {
         "value": "{Brand.Brand_Black}",
         "type": "color"
       },
-      "col-bg-neutral-800": {
+      "Neutral-800": {
         "value": "#2a2c30",
         "type": "color"
       },
-      "col-bg-default": {
+      "Default": {
         "value": "#ffffff",
         "type": "color"
       }
     },
     "Stroke": {
-      "col-stroke-inactive": {
+      "Inactive": {
         "value": "#dedad4",
         "type": "color"
       },
-      "col-stroke-brand_secondary": {
+      "Secondary": {
         "value": "#cfb07b",
         "type": "color"
       },
-      "col-stroke-brand_secondary-300": {
+      "Secondary-300": {
         "value": "#ddc7a1",
         "type": "color"
       },
-      "col-stroke-default": {
+      "Default": {
         "value": "#aeaeae",
         "type": "color"
       },
-      "col-stroke-error": {
+      "Error": {
         "value": "#b11f1f",
         "type": "color"
       },
-      "color-stroke-separator": {
+      "Separator": {
         "value": "#dedad4",
         "type": "color"
       },
-      "color-stroke-neutral-900": {
+      "Neutral-900": {
         "value": "#1c1f24",
         "type": "color"
       },
-      "col-stroke-neutral-500": {
+      "Neutral-500": {
         "value": "#71787a",
         "type": "color"
       },
-      "color-stroke-neutral-100": {
+      "Neutral-100": {
         "value": "#ffffff",
         "type": "color"
       }
     },
     "Texts": {
-      "col-text-default": {
+      "Default": {
         "value": "#1c1f24",
         "type": "color"
       },
-      "col-text-hightlight": {
+      "Hightlight-Primary": {
         "value": "#7a6855",
         "type": "color"
       },
-      "col-text-secondary-highlight": {
+      "Highlight-Secondary": {
         "value": "#cfb07b",
         "type": "color"
       },
-      "col-text-help": {
+      "Help": {
         "value": "#2a2c30",
         "type": "color"
       },
-      "col-text-inactive": {
+      "Inactive": {
         "value": "#71787a",
         "type": "color"
       },
-      "col-text-neutral-light-grey": {
+      "Neutral-Light-Grey": {
         "value": "#aeaeae",
         "type": "color"
       },
-      "col-text-neutral_xtra-light-grey": {
+      "Neutral_Xtra-Light-Grey": {
         "value": "#f2f2f1",
         "type": "color"
       },
-      "col-text-neutral-white": {
+      "Neutral-White": {
         "value": "#ffffff",
         "type": "color"
       }
     },
     "Neutrals": {
-      "col-neutral_black": {
+      "Neutral_Black": {
         "value": "#1c1f24",
         "type": "color"
       },
-      "col-neutral_dark-grey": {
+      "Neutral_Dark-Grey": {
         "value": "#2a2c30",
         "type": "color"
       },
-      "col-neutral_cold-grey": {
+      "Neutral_Cold-Grey": {
         "value": "#71787a",
         "type": "color"
       },
-      "col-neutral_light-grey": {
+      "Neutral_Light-Grey": {
         "value": "#aeaeae",
         "type": "color"
       },
-      "col-neutral_xtra-light-grey": {
+      "Neutral_Xtra-Light-Grey": {
         "value": "#f2f2f1",
         "type": "color"
       },
-      "col-neutral_white": {
+      "Neutral_White": {
         "value": "#ffffff",
         "type": "color"
       }
     },
     "System": {
-      "col-sys-error-900": {
+      "Error-900": {
         "value": "#b11f1f",
         "type": "color"
       },
-      "col-sys-error-100": {
+      "Error-100": {
         "value": "#fbe9e9",
         "type": "color"
       },
-      "col-sys-valid-900": {
+      "Valid-900": {
         "value": "#36ab57",
         "type": "color"
       },
-      "col-sys-valid-100": {
+      "Valid-100": {
         "value": "#ecf9ef",
         "type": "color"
       },
-      "col-sys-infomational-900": {
+      "Infomational-900": {
         "value": "#0c66e4",
         "type": "color"
       },
-      "col-sys-informational-100": {
+      "Informational-100": {
         "value": "#e7f0fe",
         "type": "color"
       }
     },
     "spacing": {
-      "spac-none": {
+      "None": {
         "value": "0px",
         "type": "spacing"
       },
-      "spac-4xsmall": {
+      "4xsmall": {
         "value": "2px",
         "type": "spacing"
       },
-      "spac3xsmall": {
+      "3xsmall": {
         "value": "4px",
         "type": "spacing"
       },
-      "spac-2xsmall": {
+      "2xsmall": {
         "value": "8px",
         "type": "spacing"
       },
-      "spac-medium": {
+      "Medium": {
         "value": "16px",
         "type": "spacing"
       },
-      "spac-large": {
+      "Large": {
         "value": "24px",
         "type": "spacing"
       },
-      "spac-xlarge": {
+      "Xlarge": {
         "value": "32px",
         "type": "spacing"
       },
-      "spac-xxlarge": {
+      "Xxlarge": {
         "value": "40px",
         "type": "spacing"
       }
@@ -746,11 +746,11 @@
       "value": "1.5px",
       "type": "other"
     },
-    "main_content": {
+    "Main_Content": {
       "value": "{Open sans}",
       "type": "typography"
     },
-    "secondary_content": {
+    "Secondary_Content": {
       "value": "Urbanist",
       "type": "typography"
     }
