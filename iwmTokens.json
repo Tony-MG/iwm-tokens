@@ -497,260 +497,261 @@
   },
   "01 - Semantics": {
     "col-brand": {
-      "col-brand_primary-black": {
-        "value": "#1c1f24",
-         "type": "color"
+      "brand_primary-black": {
+        "value": "{Colourless.Black}",
+        "type": "color"
       },
-      "col-brand_primary": {
-        "value": "#7a6855",
-         "type": "color"
+      "brand_primary": {
+        "value": "{Fawn.Fawn-700}",
+        "type": "color"
       },
-      "col-brand_secondary": {
-        "value": "#cfb07b",
-         "type": "color"
+      "brand_secondary": {
+        "value": "{Sand.sand-400}",
+        "type": "color"
       }
     },
     "col-background": {
-      "col-bg-neutral_separator": {
-        "value": "#dedad4",
-         "type": "color"
+      "bg-neutral_separator": {
+        "value": "{Colourless.MidStone}",
+        "type": "color"
       },
-      "col-bg-brand_primary": {
-        "value": "#7a6855",
-         "type": "color"
+      "bg-brand_primary": {
+        "value": "{col-brand.brand_primary}",
+        "type": "color"
       },
-      "col-bg-brand-secondary": {
-        "value": "#cfb07b",
-         "type": "color"
+      "bg-brand-secondary": {
+        "value": "{col-brand.brand_secondary}",
+        "type": "color"
       },
-      "col-bg-neutral_inactive": {
-        "value": "#f2f2f1",
-         "type": "color"
+      "bg-neutral_inactive": {
+        "value": "{Colourless.XtraLightGrey}",
+        "type": "color"
       },
-      "col-bg-brand-900": {
-        "value": "#ad9c8a",
-         "type": "color"
+      "bg-brand-900": {
+        "value": "{Fawn.Fawn-300}",
+        "type": "color"
       },
-      "col-bg-brand-500": {
-        "value": "#b8a999",
-         "type": "color"
+      "bg-brand-500": {
+        "value": "{Fawn.Fawn-500}",
+        "type": "color"
       },
       "col-bg-brand-100": {
         "value": "#c2b5a8",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-colored-100": {
         "value": "#f6f3ef",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-colored-900": {
         "value": "#ddc7a1",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-colored-500": {
         "value": "#ebddc7",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-neutral-900": {
         "value": "#1c1f24",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-neutral-800": {
         "value": "#2a2c30",
-         "type": "color"
+        "type": "color"
       },
       "col-bg-default": {
         "value": "#ffffff",
-         "type": "color"
+        "type": "color"
       }
     },
     "col-stroke": {
       "col-stroke-inactive": {
         "value": "#dedad4",
-         "type": "color"
+        "type": "color"
       },
       "col-stroke-brand_secondary": {
         "value": "#cfb07b",
-         "type": "color"
+        "type": "color"
       },
       "col-stroke-brand_secondary-300": {
         "value": "#ddc7a1",
-         "type": "color"
+        "type": "color"
       },
       "col-stroke-default": {
         "value": "#aeaeae",
-         "type": "color"
+        "type": "color"
       },
       "col-stroke-error": {
         "value": "#b11f1f",
-         "type": "color"
+        "type": "color"
       },
       "color-stroke-separator": {
         "value": "#dedad4",
-         "type": "color"
+        "type": "color"
       },
       "color-stroke-neutral-900": {
         "value": "#1c1f24",
-         "type": "color"
+        "type": "color"
       },
       "col-stroke-neutral-500": {
         "value": "#71787a",
-         "type": "color"
+        "type": "color"
       },
       "color-stroke-neutral-100": {
         "value": "#ffffff",
-         "type": "color"
+        "type": "color"
       }
     },
     "col-text": {
       "col-text-default": {
         "value": "#1c1f24",
-         "type": "color"
+        "type": "color"
       },
       "col-text-hightlight": {
         "value": "#7a6855",
-         "type": "color"
+        "type": "color"
       },
       "col-text-secondary-highlight": {
         "value": "#cfb07b",
-         "type": "color"
+        "type": "color"
       },
       "col-text-help": {
         "value": "#2a2c30",
-         "type": "color"
+        "type": "color"
       },
       "col-text-inactive": {
         "value": "#71787a",
-         "type": "color"
+        "type": "color"
       },
       "col-text-neutral-light-grey": {
         "value": "#aeaeae",
-         "type": "color"
+        "type": "color"
       },
       "col-text-neutral_xtra-light-grey": {
         "value": "#f2f2f1",
-         "type": "color"
+        "type": "color"
       },
       "col-text-neutral-white": {
         "value": "#ffffff",
-         "type": "color"
+        "type": "color"
       }
     },
     "col-neutrals": {
       "col-neutral_black": {
         "value": "#1c1f24",
-         "type": "color"
+        "type": "color"
       },
       "col-neutral_dark-grey": {
         "value": "#2a2c30",
-         "type": "color"
+        "type": "color"
       },
       "col-neutral_cold-grey": {
         "value": "#71787a",
-         "type": "color"
+        "type": "color"
       },
       "col-neutral_light-grey": {
         "value": "#aeaeae",
-         "type": "color"
+        "type": "color"
       },
       "col-neutral_xtra-light-grey": {
         "value": "#f2f2f1",
-         "type": "color"
+        "type": "color"
       },
       "col-neutral_white": {
         "value": "#ffffff",
-         "type": "color"
+        "type": "color"
       }
     },
     "col-system": {
       "col-sys-error-900": {
         "value": "#b11f1f",
-         "type": "color"
+        "type": "color"
       },
       "col-sys-error-100": {
         "value": "#fbe9e9",
-         "type": "color"
+        "type": "color"
       },
       "col-sys-valid-900": {
         "value": "#36ab57",
-         "type": "color"
+        "type": "color"
       },
       "col-sys-valid-100": {
         "value": "#ecf9ef",
-         "type": "color"
+        "type": "color"
       },
       "col-sys-infomational-900": {
         "value": "#0c66e4",
-         "type": "color"
+        "type": "color"
       },
       "col-sys-informational-100": {
         "value": "#e7f0fe",
-         "type": "color"
+        "type": "color"
       }
     },
     "spacing": {
       "spac-none": {
         "value": "0px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-4xsmall": {
         "value": "2px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac3xsmall": {
         "value": "4px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-2xsmall": {
         "value": "8px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-medium": {
         "value": "16px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-large": {
         "value": "24px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-xlarge": {
         "value": "32px",
-         "type": "spacing"
+        "type": "spacing"
       },
       "spac-xxlarge": {
         "value": "40px",
-         "type": "spacing"
+        "type": "spacing"
       }
     },
     "border-radius": {
       "border-radius-none": {
         "value": "0px",
-         "type": "border-radius"
+        "type": "border-radius"
       },
       "border-radius-xsmall": {
         "value": "4px",
-         "type": "border-radius"
+        "type": "border-radius"
       },
       "border-radius-small": {
         "value": "8px",
-         "type": "border-radius"
+        "type": "border-radius"
       },
       "border-radius-medium": {
         "value": "12px",
-         "type": "border-radius"
+        "type": "border-radius"
       },
       "border-radius_large": {
         "value": "16px",
-         "type": "border-radius"
+        "type": "border-radius"
       }
     },
     "icon_stroke_width": {
-      "value": "1.5px"
+      "value": "1.5px",
+      "type": "other"
     },
     "fonts": {
       "main_content": {
-        "value": "Open sans",
-         "type": "typography"
+        "value": "{Open sans}",
+        "type": "typography"
       },
       "secondary_content": {
         "value": "Urbanist",
