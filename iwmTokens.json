@@ -768,70 +768,221 @@
   },
   "02 - Components": {
     "Link": {
-      "Col-link": "#7a6855"
+      "Col-link": {
+        "value": "{Brand.Brand_Primary}",
+        "type": "color"
+      }
     },
     "Form": {
-      "Col-Stroke-form-InputFill": "#cfb07b",
-      "Col-bg-header_mobile_app": "#3a444b",
-      "Col-Text-Checkbox": "#58431d",
-      "Col-Stroke-Checkbox": "#58431d"
+      "Col-Stroke-form-InputFill": {
+        "value": "{Stroke.Secondary}",
+        "type": "color"
+      },
+      "Col-bg-header_mobile_app": {
+        "value": "{Mouse Grey.MouseGrey-800}",
+        "type": "color"
+      },
+      "Col-Text-Checkbox": {
+        "value": "{Sand.Sand-800}",
+        "type": "color"
+      },
+      "Col-Stroke-Checkbox": {
+        "value": "{Sand.Sand-800}",
+        "type": "color"
+      }
     },
     "Header": {
-      "Col-text-header_navigation-default": "#3a444b",
-      "Col-tab_header_bg-default": "#ffffff",
-      "Col-bg-header_mobile-app_icon": "#516069",
-      "Col-bg-header_mobile_search": "#f6f3ef",
-      "Col-bg-Sub_nav_desktop": "#f2f2f1"
+      "Col-text-header_navigation-default": {
+        "value": "{Mouse Grey.MouseGrey-800}",
+        "type": "color"
+      },
+      "Col-tab_header_bg-default": {
+        "value": "{Backgrounds.Neutrals.Default}",
+        "type": "color"
+      },
+      "Col-bg-header_mobile-app_icon": {
+        "value": "{Mouse Grey.MouseGrey-700}",
+        "type": "color"
+      },
+      "Col-bg-header_mobile_search": {
+        "value": "{Sand.Sand-100}",
+        "type": "color"
+      },
+      "Col-bg-Sub_nav_desktop": {
+        "value": "{Colourless.XtraLightGrey}",
+        "type": "color"
+      }
     },
     "Tables": {
-      "Col-bg-table_header": "#dedad4",
-      "Color-separator-table_header": "#aeaeae",
-      "Col-bg-table-pair": "#f2f2f1",
-      "Col-bg-default-impair": "#ffffff"
+      "Col-bg-table_header": {
+        "value": "{Backgrounds.Neutrals.Neutral_Separator}",
+        "type": "color"
+      },
+      "Color-separator-table_header": {
+        "value": "{Stroke.Default}",
+        "type": "color"
+      },
+      "Col-bg-table-pair": {
+        "value": "{Colourless.XtraLightGrey}",
+        "type": "color"
+      },
+      "Col-bg-default-impair": {
+        "value": "{Backgrounds.Neutrals.Default}",
+        "type": "color"
+      }
     },
     "Footer": {
-      "Col-bg-Footer-Megamenu": "#2a2c30",
-      "Col-bg-Footer-Primary": "#1c1f24"
+      "Col-bg-Footer-Megamenu": {
+        "value": "{Backgrounds.Neutrals.Neutral-800}",
+        "type": "color"
+      },
+      "Col-bg-Footer-Primary": {
+        "value": "{Backgrounds.Neutrals.Neutral-900}",
+        "type": "color"
+      }
     },
     "Rating": {
-      "Col-bg-Rating-active": "#cfb07b"
+      "Col-bg-Rating-active": {
+        "value": "{Backgrounds.Brand.Secondary}",
+        "type": "color"
+      }
     },
     "File Upload": {
-      "Col-bg-File-Uploard-Default": "#f3f5f6"
+      "Col-bg-File-Uploard-Default": {
+        "value": "{Mouse Grey.MouseGrey-100}",
+        "type": "color"
+      }
     },
     "Dropdown": {
-      "Col-bg-Dropdown-default": "#f6f3ef",
-      "Col-bg-Dropdown-hover": "#ebddc7",
-      "Col-bg-Dropdown-hover 2": "#ddc7a1"
+      "Col-bg-Dropdown-default": {
+        "value": "{Sand.Sand-100}",
+        "type": "color"
+      },
+      "Col-bg-Dropdown-hover": {
+        "value": "{Sand.Sand-200}",
+        "type": "color"
+      },
+      "Col-bg-Dropdown-hover 2": {
+        "value": "{Sand.Sand-300}",
+        "type": "color"
+      }
     },
     "Charts": {
-      "Col-bg-chart-4": "#c70969",
-      "Col-bg-chart-6": "#ea8c3e",
-      "Col-bg-chart-3": "#cf43cd",
-      "Col-bg-chart-1": "#54bbed",
-      "Col-bg-chart-sand": "#5b2cc2",
-      "Col-bg-chart-7": "#acdc5a",
-      "Col-bg-chart-5": "#f26448",
-      "Col-bg-chart-8": "#80929d"
+      "Col-bg-chart-4": {
+        "value": "{Cherry}",
+        "type": "color"
+      },
+      "Col-bg-chart-6": {
+        "value": "{Orange}",
+        "type": "color"
+      },
+      "Col-bg-chart-3": {
+        "value": "{Pink}",
+        "type": "color"
+      },
+      "Col-bg-chart-1": {
+        "value": "{Light Blue}",
+        "type": "color"
+      },
+      "Col-bg-chart-sand": {
+        "value": "{Purple}",
+        "type": "color"
+      },
+      "Col-bg-chart-7": {
+        "value": "{Light Green}",
+        "type": "color"
+      },
+      "Col-bg-chart-5": {
+        "value": "{Deep Orange}",
+        "type": "color"
+      },
+      "Col-bg-chart-8": {
+        "value": "{Mouse Grey.MouseGrey-500}",
+        "type": "color"
+      }
     },
     "Buttons": {
-      "horizontal_Padding": "32",
-      "vertical_Padding": "24",
+      "horizontal_Padding": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "vertical_Padding": {
+        "value": "24",
+        "type": "spacing"
+      },
       "Primary": {
-        "background-color": "#7a6855",
-        "content_color": "#ffffff",
-        "border-color": "#ffffff"
+        "background-color": {
+          "value": "{Backgrounds.Brand.Primary}",
+          "type": "color"
+        },
+        "content_color": {
+          "value": "{Colourless.White}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{Colourless.White}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          }
+        }
       },
       "Secondary": {
-        "border-color": "#7a6855",
-        "content_color": "#7a6855",
-        "background-color": "#ffffff"
+        "border-color": {
+          "value": "{Brand.Brand_Primary}",
+          "type": "color"
+        },
+        "content_color": {
+          "value": "{Brand.Brand_Primary}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{Colourless.White}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          }
+        }
       },
-      "font-size": "16",
-      "letter-spacing": "8",
-      "label_font-family": "Urbanist",
-      "elements-spacing": "8",
-      "border-radius": "4"
+      "font-size": {
+        "value": "{Medium}",
+        "type": "fontSizes"
+      },
+      "label_font-family": {
+        "value": "{Urbanist}",
+        "type": "fontFamilies"
+      },
+      "elements-spacing": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "border-radius": {
+        "value": "4",
+        "type": "other"
+      }
+    },
+    "radius": {
+      "value": "{3XSmall}",
+      "type": "borderRadius"
+    },
+    "Buttons-Label": {
+      "value": {
+        "fontFamily": "{Buttons.label_font-family}",
+        "fontSize": "{Buttons.font-size}"
+      },
+      "type": "typography"
     }
   },
   "$themes": [
