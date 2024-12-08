@@ -440,11 +440,11 @@
     },
     "Urbanist": {
       "value": "Urbanist",
-      "type": "typography"
+      "type": "fontFamilies"
     },
     "Open sans": {
       "value": "Open sans",
-      "type": "typography"
+      "type": "fontFamilies"
     },
     "None": {
       "value": "0",
@@ -493,6 +493,10 @@
     "2XLarge": {
       "value": "40",
       "type": "number"
+    },
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
     }
   },
   "01 - Semantics": {
@@ -730,23 +734,23 @@
     },
     "br_None": {
       "value": "{None}",
-      "type": "border-radius"
+      "type": "Border-Radius"
     },
     "br_Xsmall": {
       "value": "{XSmall}",
-      "type": "border-radius"
+      "type": "Border-Radius"
     },
     "br_Small": {
       "value": "{Small}",
-      "type": "border-radius"
+      "type": "Border-Radius"
     },
     "br_Medium": {
       "value": "{Medium}",
-      "type": "border-radius"
+      "type": "Border-Radius"
     },
     "br_Large": {
       "value": "{Large}",
-      "type": "border-radius"
+      "type": "Border-Radius"
     },
     "Main_Content": {
       "value": "{Open sans}",
@@ -762,6 +766,7 @@
       "description": "Icons border width"
     }
   },
+  "02 - Components": {},
   "$themes": [
     {
       "id": "a1e32b3a67be7bac8feaab26d23bd29f8574522a",
@@ -776,7 +781,8 @@
   "$metadata": {
     "tokenSetOrder": [
       "00 - Primitives Tokens",
-      "01 - Semantics"
+      "01 - Semantics",
+      "02 - Components"
     ]
   }
 }
