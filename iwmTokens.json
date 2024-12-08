@@ -916,7 +916,7 @@
           "type": "color"
         },
         "content_color": {
-          "value": "{Colourless.White}",
+          "value": "{Light Green}",
           "type": "color"
         },
         "border-color": {
