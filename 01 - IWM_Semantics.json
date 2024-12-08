@@ -1,0 +1,267 @@
+{
+  "Brand": {
+    "Brand_Black": {
+      "value": "{Colourless.Black}",
+      "type": "color"
+    },
+    "Brand_Primary": {
+      "value": "{Fawn.Fawn-700}",
+      "type": "color"
+    },
+    "Brand_Secondary": {
+      "value": "{Sand.Sand-400}",
+      "type": "color"
+    }
+  },
+  "Backgrounds": {
+    "Brand": {
+      "Primary": {
+        "value": "{Brand.Brand_Primary}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Brand.Brand_Secondary}",
+        "type": "color"
+      },
+      "Brand-900": {
+        "value": "{Fawn.Fawn-300}",
+        "type": "color"
+      },
+      "Brand-500": {
+        "value": "{Fawn.Fawn-500}",
+        "type": "color"
+      },
+      "Brand-100": {
+        "value": "{Fawn.Fawn-100}",
+        "type": "color"
+      }
+    },
+    "Colored": {
+      "Colored-100": {
+        "value": "{Fawn.Fawn-100}",
+        "type": "color"
+      },
+      "Colored-900": {
+        "value": "{Sand.Sand-300}",
+        "type": "color"
+      },
+      "Colored-500": {
+        "value": "{Sand.Sand-200}",
+        "type": "color"
+      }
+    },
+    "Neutrals": {
+      "Neutral-900": {
+        "value": "{Brand.Brand_Black}",
+        "type": "color"
+      },
+      "Neutral-800": {
+        "value": "{Colourless.DarkGrey}",
+        "type": "color"
+      },
+      "Neutral_Separator": {
+        "value": "{Colourless.MidStone}",
+        "type": "color"
+      },
+      "Neutral_Inactive": {
+        "value": "{Colourless.XtraLightGrey}",
+        "type": "color"
+      },
+      "Default": {
+        "value": "{Colourless.White}",
+        "type": "color"
+      }
+    }
+  },
+  "Stroke": {
+    "Inactive": {
+      "value": "{Colourless.MidStone}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Brand.Brand_Secondary}",
+      "type": "color"
+    },
+    "Secondary-300": {
+      "value": "{Sand.Sand-300}",
+      "type": "color"
+    },
+    "Default": {
+      "value": "{Colourless.LightGrey}",
+      "type": "color"
+    },
+    "Error": {
+      "value": "{System.Error-900}",
+      "type": "color"
+    },
+    "Separator": {
+      "value": "{Colourless.MidStone}",
+      "type": "color"
+    },
+    "Neutral-900": {
+      "value": "{Colourless.Black}",
+      "type": "color"
+    },
+    "Neutral-500": {
+      "value": "{Colourless.ColdGrey}",
+      "type": "color"
+    },
+    "Neutral-100": {
+      "value": "{Colourless.White}",
+      "type": "color"
+    }
+  },
+  "Texts": {
+    "Default": {
+      "value": "{Colourless.Black}",
+      "type": "color"
+    },
+    "Hightlight-Primary": {
+      "value": "{Brand.Brand_Primary}",
+      "type": "color"
+    },
+    "Highlight-Secondary": {
+      "value": "{Brand.Brand_Secondary}",
+      "type": "color"
+    },
+    "Help": {
+      "value": "{Neutrals.Neutral_Dark-Grey}",
+      "type": "color"
+    },
+    "Inactive": {
+      "value": "{Neutrals.Neutral_Cold-Grey}",
+      "type": "color"
+    },
+    "Neutral-Light-Grey": {
+      "value": "{Colourless.LightGrey}",
+      "type": "color"
+    },
+    "Neutral_Xtra-Light-Grey": {
+      "value": "{Colourless.XtraLightGrey}",
+      "type": "color"
+    },
+    "Neutral-White": {
+      "value": "{Neutrals.Neutral_White}",
+      "type": "color"
+    }
+  },
+  "Neutrals": {
+    "Neutral_Black": {
+      "value": "{Colourless.Black}",
+      "type": "color"
+    },
+    "Neutral_Dark-Grey": {
+      "value": "{Colourless.DarkGrey}",
+      "type": "color"
+    },
+    "Neutral_Cold-Grey": {
+      "value": "{Colourless.ColdGrey}",
+      "type": "color"
+    },
+    "Neutral_Light-Grey": {
+      "value": "{Colourless.LightGrey}",
+      "type": "color"
+    },
+    "Neutral_Xtra-Light-Grey": {
+      "value": "{Colourless.XtraLightGrey}",
+      "type": "color"
+    },
+    "Neutral_White": {
+      "value": "{Colourless.White}",
+      "type": "color"
+    }
+  },
+  "System": {
+    "Error-900": {
+      "value": "{System.Red-500}",
+      "type": "color"
+    },
+    "Error-100": {
+      "value": "{System.Red-100}",
+      "type": "color"
+    },
+    "Valid-900": {
+      "value": "{System.Green-500}",
+      "type": "color"
+    },
+    "Valid-100": {
+      "value": "{System.Green-100}",
+      "type": "color"
+    },
+    "Infomational-900": {
+      "value": "{System.Blue-500}",
+      "type": "color"
+    },
+    "Informational-100": {
+      "value": "{System.Blue-100}",
+      "type": "color"
+    }
+  },
+  "spacing": {
+    "None": {
+      "value": "{None}",
+      "type": "spacing"
+    },
+    "4xsmall": {
+      "value": "{4XSmall}",
+      "type": "spacing"
+    },
+    "3xsmall": {
+      "value": "{3XSmall}",
+      "type": "spacing"
+    },
+    "2xsmall": {
+      "value": "{2XSmall}",
+      "type": "spacing"
+    },
+    "Medium": {
+      "value": "{Medium}",
+      "type": "spacing"
+    },
+    "Large": {
+      "value": "{Large}",
+      "type": "spacing"
+    },
+    "Xlarge": {
+      "value": "{XLarge}",
+      "type": "spacing"
+    },
+    "Xxlarge": {
+      "value": "{2XLarge}",
+      "type": "spacing"
+    }
+  },
+  "br_None": {
+    "value": "{None}",
+    "type": "Border-Radius"
+  },
+  "br_Xsmall": {
+    "value": "{XSmall}",
+    "type": "Border-Radius"
+  },
+  "br_Small": {
+    "value": "{Small}",
+    "type": "Border-Radius"
+  },
+  "br_Medium": {
+    "value": "{Medium}",
+    "type": "Border-Radius"
+  },
+  "br_Large": {
+    "value": "{Large}",
+    "type": "Border-Radius"
+  },
+  "Main_Content": {
+    "value": "{Open sans}",
+    "type": "typography"
+  },
+  "Secondary_Content": {
+    "value": "{Urbanist}",
+    "type": "typography"
+  },
+  "Icons": {
+    "value": "{5XSmall}",
+    "type": "borderWidth",
+    "description": "Icons border width"
+  }
+}

@@ -4,7 +4,17 @@
     "name": "IWM",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "02 - IWM-Components": "enabled"
+      "02 - IWM-Components": "enabled",
+      "01 - IWM_Semantics": "enabled"
+    }
+  },
+  {
+    "id": "11954842f1de92d50f4eac398b5b22e0bfb2eaae",
+    "name": "BNP",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "01 - BNP_Semantics": "enabled",
+      "02 - BNP_Components": "enabled"
     }
   }
 ]
