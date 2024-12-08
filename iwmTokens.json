@@ -766,7 +766,74 @@
       "description": "Icons border width"
     }
   },
-  "02 - Components": {},
+  "02 - Components": {
+    "Link": {
+      "Col-link": "#7a6855"
+    },
+    "Form": {
+      "Col-Stroke-form-InputFill": "#cfb07b",
+      "Col-bg-header_mobile_app": "#3a444b",
+      "Col-Text-Checkbox": "#58431d",
+      "Col-Stroke-Checkbox": "#58431d"
+    },
+    "Header": {
+      "Col-text-header_navigation-default": "#3a444b",
+      "Col-tab_header_bg-default": "#ffffff",
+      "Col-bg-header_mobile-app_icon": "#516069",
+      "Col-bg-header_mobile_search": "#f6f3ef",
+      "Col-bg-Sub_nav_desktop": "#f2f2f1"
+    },
+    "Tables": {
+      "Col-bg-table_header": "#dedad4",
+      "Color-separator-table_header": "#aeaeae",
+      "Col-bg-table-pair": "#f2f2f1",
+      "Col-bg-default-impair": "#ffffff"
+    },
+    "Footer": {
+      "Col-bg-Footer-Megamenu": "#2a2c30",
+      "Col-bg-Footer-Primary": "#1c1f24"
+    },
+    "Rating": {
+      "Col-bg-Rating-active": "#cfb07b"
+    },
+    "File Upload": {
+      "Col-bg-File-Uploard-Default": "#f3f5f6"
+    },
+    "Dropdown": {
+      "Col-bg-Dropdown-default": "#f6f3ef",
+      "Col-bg-Dropdown-hover": "#ebddc7",
+      "Col-bg-Dropdown-hover 2": "#ddc7a1"
+    },
+    "Charts": {
+      "Col-bg-chart-4": "#c70969",
+      "Col-bg-chart-6": "#ea8c3e",
+      "Col-bg-chart-3": "#cf43cd",
+      "Col-bg-chart-1": "#54bbed",
+      "Col-bg-chart-sand": "#5b2cc2",
+      "Col-bg-chart-7": "#acdc5a",
+      "Col-bg-chart-5": "#f26448",
+      "Col-bg-chart-8": "#80929d"
+    },
+    "Buttons": {
+      "horizontal_Padding": "32",
+      "vertical_Padding": "24",
+      "Primary": {
+        "background-color": "#7a6855",
+        "content_color": "#ffffff",
+        "border-color": "#ffffff"
+      },
+      "Secondary": {
+        "border-color": "#7a6855",
+        "content_color": "#7a6855",
+        "background-color": "#ffffff"
+      },
+      "font-size": "16",
+      "letter-spacing": "8",
+      "label_font-family": "Urbanist",
+      "elements-spacing": "8",
+      "border-radius": "4"
+    }
+  },
   "$themes": [
     {
       "id": "a1e32b3a67be7bac8feaab26d23bd29f8574522a",
