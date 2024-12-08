@@ -911,13 +911,25 @@
         "type": "spacing"
       },
       "Primary": {
-        "background-color": {
-          "value": "{Backgrounds.Brand.Primary}",
-          "type": "color"
+        "Default": {
+          "background-color": {
+            "value": "{Backgrounds.Brand.Primary}",
+            "type": "color"
+          },
+          "content_color": {
+            "value": "{Colourless.White}",
+            "type": "color"
+          }
         },
-        "content_color": {
-          "value": "{Light Green}",
-          "type": "color"
+        "Hover": {
+          "background-color": {
+            "value": "{Backgrounds.Brand.Secondary}",
+            "type": "color"
+          },
+          "content_color": {
+            "value": "{Brand.Brand_Black}",
+            "type": "color"
+          }
         },
         "border-color": {
           "value": "{Colourless.White}",
@@ -930,6 +942,26 @@
                 "space": "srgb"
               }
             }
+          }
+        },
+        "Inactive": {
+          "background-color": {
+            "value": "{Backgrounds.Neutrals.Neutral_Inactive}",
+            "type": "color"
+          },
+          "content_color": {
+            "value": "{Texts.Inactive}",
+            "type": "color"
+          }
+        },
+        "Selected": {
+          "background-color": {
+            "value": "{Backgrounds.Colored.Colored-500}",
+            "type": "color"
+          },
+          "content_color": {
+            "value": "{Brand.Brand_Black}",
+            "type": "color"
           }
         }
       },
@@ -965,7 +997,7 @@
         "type": "fontFamilies"
       },
       "elements-spacing": {
-        "value": "8",
+        "value": "{2XSmall}",
         "type": "spacing"
       },
       "border-radius": {
@@ -991,8 +1023,7 @@
       "name": "IWM",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "00 - Primitives Tokens": "enabled",
-        "01 - Semantics": "enabled"
+        "02 - Components": "enabled"
       }
     }
   ],
