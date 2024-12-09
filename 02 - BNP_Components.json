@@ -139,7 +139,7 @@
       "type": "spacing"
     },
     "vertical_Padding": {
-      "value": "24",
+      "value": "{2XSmall}",
       "type": "spacing"
     },
     "Primary": {
