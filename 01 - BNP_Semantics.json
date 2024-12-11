@@ -1,267 +1,267 @@
 {
   "Brand": {
     "Brand_Black": {
-      "value": "{Colourless.Black}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.Black}"
     },
     "Brand_Primary": {
-      "value": "{Pine Green.Pine Green-800}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Pine Green.Pine Green-800}"
     },
     "Brand_Secondary": {
-      "value": "{Pine Green.Pine Green-600}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Pine Green.Pine Green-600}"
     }
   },
   "Backgrounds": {
     "Brand": {
       "Primary": {
-        "value": "{Brand.Brand_Primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.Brand_Primary}"
       },
       "Secondary": {
-        "value": "{Brand.Brand_Secondary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.Brand_Secondary}"
       },
       "Brand-900": {
-        "value": "{Pine Green.Pine Green-300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pine Green.Pine Green-300}"
       },
       "Brand-500": {
-        "value": "{Pine Green.Pine Green-200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pine Green.Pine Green-200}"
       },
       "Brand-100": {
-        "value": "{Pine Green.Pine Green-100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pine Green.Pine Green-100}"
       }
     },
     "Colored": {
       "Colored-100": {
-        "value": "{Clay.Clay-100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Clay.Clay-100}"
       },
       "Colored-900": {
-        "value": "{Clay.Clay-300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Clay.Clay-300}"
       },
       "Colored-500": {
-        "value": "{Clay.Clay-500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Clay.Clay-500}"
       }
     },
     "Neutrals": {
       "Neutral-900": {
-        "value": "{Brand.Brand_Black}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.Brand_Black}"
       },
       "Neutral-800": {
-        "value": "{Colourless.DarkGrey}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Colourless.DarkGrey}"
       },
       "Neutral_Separator": {
-        "value": "{Colourless.MidStone}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Colourless.MidStone}"
       },
       "Neutral_Inactive": {
-        "value": "{Colourless.XtraLightGrey}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Colourless.XtraLightGrey}"
       },
       "Default": {
-        "value": "{Colourless.White}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Colourless.White}"
       }
     }
   },
   "Stroke": {
     "Inactive": {
-      "value": "{Colourless.MidStone}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.MidStone}"
     },
     "Secondary": {
-      "value": "{Brand.Brand_Secondary}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Brand.Brand_Secondary}"
     },
     "Secondary-300": {
-      "value": "{Sand.Sand-300}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Sand.Sand-300}"
     },
     "Default": {
-      "value": "{Colourless.LightGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
     },
     "Error": {
-      "value": "{System.Error-900}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Error-900}"
     },
     "Separator": {
-      "value": "{Colourless.MidStone}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.MidStone}"
     },
     "Neutral-900": {
-      "value": "{Colourless.Black}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.Black}"
     },
     "Neutral-500": {
-      "value": "{Colourless.ColdGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.ColdGrey}"
     },
     "Neutral-100": {
-      "value": "{Colourless.White}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.White}"
     }
   },
   "Texts": {
     "Default": {
-      "value": "{Colourless.Black}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.Black}"
     },
     "Hightlight-Primary": {
-      "value": "{Brand.Brand_Primary}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Brand.Brand_Primary}"
     },
     "Highlight-Secondary": {
-      "value": "{Brand.Brand_Secondary}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Brand.Brand_Secondary}"
     },
     "Help": {
-      "value": "{Neutrals.Neutral_Dark-Grey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_Dark-Grey}"
     },
     "Inactive": {
-      "value": "{Neutrals.Neutral_Cold-Grey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_Cold-Grey}"
     },
     "Neutral-Light-Grey": {
-      "value": "{Colourless.LightGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
     },
     "Neutral_Xtra-Light-Grey": {
-      "value": "{Colourless.XtraLightGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.XtraLightGrey}"
     },
     "Neutral-White": {
-      "value": "{Neutrals.Neutral_White}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_White}"
     }
   },
   "Neutrals": {
     "Neutral_Black": {
-      "value": "{Colourless.Black}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.Black}"
     },
     "Neutral_Dark-Grey": {
-      "value": "{Colourless.DarkGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.DarkGrey}"
     },
     "Neutral_Cold-Grey": {
-      "value": "{Colourless.ColdGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.ColdGrey}"
     },
     "Neutral_Light-Grey": {
-      "value": "{Colourless.LightGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
     },
     "Neutral_Xtra-Light-Grey": {
-      "value": "{Colourless.XtraLightGrey}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.XtraLightGrey}"
     },
     "Neutral_White": {
-      "value": "{Colourless.White}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Colourless.White}"
     }
   },
   "System": {
     "Error-900": {
-      "value": "{System.Red-500}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Red-500}"
     },
     "Error-100": {
-      "value": "{System.Red-100}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Red-100}"
     },
     "Valid-900": {
-      "value": "{System.Green-500}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Green-500}"
     },
     "Valid-100": {
-      "value": "{System.Green-100}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Green-100}"
     },
     "Infomational-900": {
-      "value": "{System.Blue-500}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Blue-500}"
     },
     "Informational-100": {
-      "value": "{System.Blue-100}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{System.Blue-100}"
     }
   },
   "spacing": {
     "None": {
-      "value": "{None}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{None}"
     },
     "4xsmall": {
-      "value": "{4XSmall}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{4XSmall}"
     },
     "3xsmall": {
-      "value": "{3XSmall}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{3XSmall}"
     },
     "2xsmall": {
-      "value": "{2XSmall}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{2XSmall}"
     },
     "Medium": {
-      "value": "{Medium}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{Medium}"
     },
     "Large": {
-      "value": "{Large}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{Large}"
     },
     "Xlarge": {
-      "value": "{XLarge}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{XLarge}"
     },
     "Xxlarge": {
-      "value": "{2XLarge}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{2XLarge}"
     }
   },
   "br_None": {
-    "value": "{None}",
-    "type": "Border-Radius"
+    "$type": "Border-Radius",
+    "$value": "{None}"
   },
   "br_Xsmall": {
-    "value": "{XSmall}",
-    "type": "Border-Radius"
+    "$type": "Border-Radius",
+    "$value": "{XSmall}"
   },
   "br_Small": {
-    "value": "{Small}",
-    "type": "Border-Radius"
+    "$type": "Border-Radius",
+    "$value": "{Small}"
   },
   "br_Medium": {
-    "value": "{Medium}",
-    "type": "Border-Radius"
+    "$type": "Border-Radius",
+    "$value": "{Medium}"
   },
   "br_Large": {
-    "value": "{Large}",
-    "type": "Border-Radius"
+    "$type": "Border-Radius",
+    "$value": "{Large}"
   },
   "Main_Content": {
-    "value": "{Open sans}",
-    "type": "typography"
+    "$type": "typography",
+    "$value": "{Open sans}"
   },
   "Secondary_Content": {
-    "value": "{Urbanist}",
-    "type": "typography"
+    "$type": "typography",
+    "$value": "{Urbanist}"
   },
   "Icons": {
-    "value": "{5XSmall}",
-    "type": "borderWidth",
-    "description": "Icons border width"
+    "$type": "borderWidth",
+    "$value": "{5XSmall}",
+    "$description": "Icons border width"
   }
 }
