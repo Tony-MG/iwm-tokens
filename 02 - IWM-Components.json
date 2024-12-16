@@ -235,6 +235,10 @@
     "border-radius": {
       "$type": "other",
       "$value": "4"
+    },
+    "Label_LS": {
+      "$type": "letterSpacing",
+      "$value": "{Letter-Spacing_Small}"
     }
   },
   "radius": {

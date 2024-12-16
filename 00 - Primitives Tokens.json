@@ -496,5 +496,11 @@
   "Regular": {
     "$type": "fontWeights",
     "$value": "Regular"
+  },
+  "Percents": {
+    "percent_Small": {
+      "$type": "number",
+      "$value": "2%"
+    }
   }
 }
