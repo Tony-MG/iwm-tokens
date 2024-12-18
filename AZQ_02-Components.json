@@ -319,7 +319,8 @@
     "$value": {
       "fontFamily": "{FF_Brand}",
       "fontSize": "{FS-Default}",
-      "letterSpacing": "{Buttons.Label_LS}"
+      "letterSpacing": "{Buttons.Label_LS}",
+      "fontWeight": "Regular"
     }
   },
   "Icon-Buttons": {
