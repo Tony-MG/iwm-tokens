@@ -320,7 +320,7 @@
       "fontFamily": "{FF_Brand}",
       "fontSize": "{FS-Default}",
       "letterSpacing": "{Buttons.Label_LS}",
-      "fontWeight": "Regular"
+      "fontWeight": "{FW_SemiBold}"
     }
   },
   "Icon-Buttons": {

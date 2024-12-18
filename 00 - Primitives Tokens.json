@@ -544,5 +544,9 @@
   "FW_Bold": {
     "$type": "fontWeights",
     "$value": "Bold"
+  },
+  "FW_SemiBold": {
+    "$type": "fontWeights",
+    "$value": "SemiBold"
   }
 }
