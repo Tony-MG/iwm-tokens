@@ -1,10 +1,9 @@
 {
   "tokenSetOrder": [
     "00 - Primitives Tokens",
-    "01 - IWM_Semantics",
-    "01 - BNP_Semantics",
-    "02 - IWM-Components",
-    "02 - BNP_Components",
-    "01 - Semantics"
+    "IWM_01-Semantics",
+    "IWM_02-Components",
+    "AZQ_01-Semantics",
+    "AZQ_02-Components"
   ]
 }

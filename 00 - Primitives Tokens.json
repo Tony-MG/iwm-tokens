@@ -505,6 +505,36 @@
     "percent_Small": {
       "$type": "number",
       "$value": "8%"
+    },
+    "percent-XSmall": {
+      "$type": "number",
+      "$value": "2%"
     }
+  },
+  "Amber": {
+    "Amber-700": {
+      "$type": "color",
+      "$value": "#956D13"
+    },
+    "Amber-600": {
+      "$type": "color",
+      "$value": "#DF9F0D"
+    },
+    "Amber-500": {
+      "$type": "color",
+      "$value": "#FFB50A"
+    },
+    "Amber-400": {
+      "$type": "color",
+      "$value": "#FFDF93"
+    },
+    "Amber-100": {
+      "$type": "color",
+      "$value": "#FFF6E2"
+    }
+  },
+  "Open Sans": {
+    "$type": "fontFamilies",
+    "$value": "Open Sans"
   }
 }

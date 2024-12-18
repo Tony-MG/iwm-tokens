@@ -1,0 +1,285 @@
+{
+  "Brand": {
+    "Brand_Black": {
+      "$type": "color",
+      "$value": "{Colourless.Black}"
+    },
+    "Brand_Primary": {
+      "$type": "color",
+      "$value": "{Fawn.Fawn-700}"
+    },
+    "Brand_Secondary": {
+      "$type": "color",
+      "$value": "{Sand.Sand-400}"
+    }
+  },
+  "Backgrounds": {
+    "Brand": {
+      "Primary": {
+        "$type": "color",
+        "$value": "{Brand.Brand_Primary}"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "{Brand.Brand_Secondary}"
+      },
+      "Brand-900": {
+        "$type": "color",
+        "$value": "{Fawn.Fawn-300}"
+      },
+      "Brand-500": {
+        "$type": "color",
+        "$value": "{Fawn.Fawn-500}"
+      },
+      "Brand-100": {
+        "$type": "color",
+        "$value": "{Fawn.Fawn-100}"
+      }
+    },
+    "Colored": {
+      "Colored-100": {
+        "$type": "color",
+        "$value": "{Fawn.Fawn-100}"
+      },
+      "Colored-900": {
+        "$type": "color",
+        "$value": "{Sand.Sand-300}"
+      },
+      "Colored-500": {
+        "$type": "color",
+        "$value": "{Sand.Sand-200}"
+      }
+    },
+    "Neutrals": {
+      "Neutral-900": {
+        "$type": "color",
+        "$value": "{Brand.Brand_Black}"
+      },
+      "Neutral-800": {
+        "$type": "color",
+        "$value": "{Colourless.DarkGrey}"
+      },
+      "Neutral_Separator": {
+        "$type": "color",
+        "$value": "{Colourless.MidStone}"
+      },
+      "Neutral_Inactive": {
+        "$type": "color",
+        "$value": "{Colourless.XtraLightGrey}"
+      },
+      "Default": {
+        "$type": "color",
+        "$value": "{Colourless.White}"
+      }
+    }
+  },
+  "Stroke": {
+    "Inactive": {
+      "$type": "color",
+      "$value": "{Colourless.MidStone}"
+    },
+    "Secondary": {
+      "$type": "color",
+      "$value": "{Brand.Brand_Secondary}"
+    },
+    "Secondary-300": {
+      "$type": "color",
+      "$value": "{Sand.Sand-300}"
+    },
+    "Default": {
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
+    },
+    "Error": {
+      "$type": "color",
+      "$value": "{System.Error-900}"
+    },
+    "Separator": {
+      "$type": "color",
+      "$value": "{Colourless.MidStone}"
+    },
+    "Neutral-900": {
+      "$type": "color",
+      "$value": "{Colourless.Black}"
+    },
+    "Neutral-500": {
+      "$type": "color",
+      "$value": "{Colourless.ColdGrey}"
+    },
+    "Neutral-100": {
+      "$type": "color",
+      "$value": "{Colourless.White}"
+    }
+  },
+  "Texts": {
+    "Default": {
+      "$type": "color",
+      "$value": "{Colourless.Black}"
+    },
+    "Hightlight-Primary": {
+      "$type": "color",
+      "$value": "{Brand.Brand_Primary}"
+    },
+    "Highlight-Secondary": {
+      "$type": "color",
+      "$value": "{Brand.Brand_Secondary}"
+    },
+    "Help": {
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_Dark-Grey}"
+    },
+    "Inactive": {
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_Cold-Grey}"
+    },
+    "Neutral-Light-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
+    },
+    "Neutral_Xtra-Light-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.XtraLightGrey}"
+    },
+    "Neutral-White": {
+      "$type": "color",
+      "$value": "{Neutrals.Neutral_White}"
+    }
+  },
+  "Neutrals": {
+    "Neutral_Black": {
+      "$type": "color",
+      "$value": "{Colourless.Black}"
+    },
+    "Neutral_Dark-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.DarkGrey}"
+    },
+    "Neutral_Cold-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.ColdGrey}"
+    },
+    "Neutral_Light-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.LightGrey}"
+    },
+    "Neutral_Xtra-Light-Grey": {
+      "$type": "color",
+      "$value": "{Colourless.XtraLightGrey}"
+    },
+    "Neutral_White": {
+      "$type": "color",
+      "$value": "{Colourless.White}"
+    }
+  },
+  "System": {
+    "Error-900": {
+      "$type": "color",
+      "$value": "{System.Red-500}"
+    },
+    "Error-100": {
+      "$type": "color",
+      "$value": "{System.Red-100}"
+    },
+    "Valid-900": {
+      "$type": "color",
+      "$value": "{System.Green-500}"
+    },
+    "Valid-100": {
+      "$type": "color",
+      "$value": "{System.Green-100}"
+    },
+    "Infomational-900": {
+      "$type": "color",
+      "$value": "{System.Blue-500}"
+    },
+    "Informational-100": {
+      "$type": "color",
+      "$value": "{System.Blue-100}"
+    }
+  },
+  "SP_None": {
+    "$type": "spacing",
+    "$value": "{None}"
+  },
+  "SP_4xsmall": {
+    "$type": "spacing",
+    "$value": "{4XSmall}"
+  },
+  "SP_3xsmall": {
+    "$type": "spacing",
+    "$value": "{3XSmall}"
+  },
+  "SP_2xsmall": {
+    "$type": "spacing",
+    "$value": "{2XSmall}"
+  },
+  "SP_Medium": {
+    "$type": "spacing",
+    "$value": "{Medium}"
+  },
+  "SP_Large": {
+    "$type": "spacing",
+    "$value": "{Large}"
+  },
+  "SP_Xlarge": {
+    "$type": "spacing",
+    "$value": "{XLarge}"
+  },
+  "SP_Xxlarge": {
+    "$type": "spacing",
+    "$value": "{2XLarge}"
+  },
+  "BR_None": {
+    "$type": "Border-Radius",
+    "$value": "{None}"
+  },
+  "BR_Xsmall": {
+    "$type": "Border-Radius",
+    "$value": "{XSmall}"
+  },
+  "BR_Small": {
+    "$type": "Border-Radius",
+    "$value": "{Small}"
+  },
+  "BR_Medium": {
+    "$type": "Border-Radius",
+    "$value": "{Medium}"
+  },
+  "BR_Large": {
+    "$type": "Border-Radius",
+    "$value": "{Large}"
+  },
+  "TY_Main_Content": {
+    "$type": "typography",
+    "$value": "{Open sans}"
+  },
+  "TY_Secondary_Content": {
+    "$type": "typography",
+    "$value": "{Urbanist}"
+  },
+  "BW_Icons": {
+    "$type": "borderWidth",
+    "$value": "{5XSmall}",
+    "$description": "Icons border width"
+  },
+  "LS_Small": {
+    "$type": "letterSpacing",
+    "$value": "{Percents.percent_Small}"
+  },
+  "FF_Brand": {
+    "$type": "fontFamilies",
+    "$value": "{Urbanist}"
+  },
+  "FF_Content": {
+    "$type": "fontFamilies",
+    "$value": "{Open sans}"
+  },
+  "FS-Default": {
+    "$type": "fontSizes",
+    "$value": "{Medium}"
+  },
+  "FS-Default_Small": {
+    "$type": "fontSizes",
+    "$value": "{Small-Medium}"
+  }
+}
