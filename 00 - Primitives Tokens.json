@@ -501,7 +501,7 @@
     "$type": "number",
     "$value": "40"
   },
-  "Regular": {
+  "FW_Regular": {
     "$type": "fontWeights",
     "$value": "Regular"
   },
@@ -536,5 +536,13 @@
       "$type": "color",
       "$value": "#FFF6E2"
     }
+  },
+  "FW_Mediuml": {
+    "$type": "fontWeights",
+    "$value": "Medium"
+  },
+  "FW_Bold": {
+    "$type": "fontWeights",
+    "$value": "Bold"
   }
 }
