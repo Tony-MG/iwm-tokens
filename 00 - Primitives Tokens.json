@@ -537,7 +537,7 @@
       "$value": "#FFF6E2"
     }
   },
-  "FW_Mediuml": {
+  "FW_Medium": {
     "$type": "fontWeights",
     "$value": "Medium"
   },
