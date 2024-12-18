@@ -198,26 +198,28 @@
       }
     },
     "Secondary": {
-      "border-color": {
-        "$type": "color",
-        "$value": "{Brand.Brand_Primary}"
-      },
-      "content_color": {
-        "$type": "color",
-        "$value": "{Brand.Brand_Primary}"
-      },
-      "background-color": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0",
-              "space": "srgb"
-            }
-          }
+      "Default": {
+        "border-color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Primary}"
         },
-        "$type": "color",
-        "$value": "{Colourless.White}"
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Primary}"
+        },
+        "background-color": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{Colourless.White}"
+        }
       }
     },
     "Elements-spacing": {
