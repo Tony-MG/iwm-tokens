@@ -197,75 +197,89 @@
       "$value": "{System.Blue-100}"
     }
   },
-  "spacing": {
-    "None": {
-      "$type": "spacing",
-      "$value": "{None}"
-    },
-    "4xsmall": {
-      "$type": "spacing",
-      "$value": "{4XSmall}"
-    },
-    "3xsmall": {
-      "$type": "spacing",
-      "$value": "{3XSmall}"
-    },
-    "2xsmall": {
-      "$type": "spacing",
-      "$value": "{2XSmall}"
-    },
-    "Medium": {
-      "$type": "spacing",
-      "$value": "{Medium}"
-    },
-    "Large": {
-      "$type": "spacing",
-      "$value": "{Large}"
-    },
-    "Xlarge": {
-      "$type": "spacing",
-      "$value": "{XLarge}"
-    },
-    "Xxlarge": {
-      "$type": "spacing",
-      "$value": "{2XLarge}"
-    }
+  "SP_None": {
+    "$type": "spacing",
+    "$value": "{None}"
   },
-  "br_None": {
+  "SP_4xsmall": {
+    "$type": "spacing",
+    "$value": "{4XSmall}"
+  },
+  "SP_3xsmall": {
+    "$type": "spacing",
+    "$value": "{3XSmall}"
+  },
+  "SP_2xsmall": {
+    "$type": "spacing",
+    "$value": "{2XSmall}"
+  },
+  "SP_Medium": {
+    "$type": "spacing",
+    "$value": "{Medium}"
+  },
+  "SP_Large": {
+    "$type": "spacing",
+    "$value": "{Large}"
+  },
+  "SP_Xlarge": {
+    "$type": "spacing",
+    "$value": "{XLarge}"
+  },
+  "SP_Xxlarge": {
+    "$type": "spacing",
+    "$value": "{2XLarge}"
+  },
+  "BR_None": {
     "$type": "Border-Radius",
     "$value": "{None}"
   },
-  "br_Xsmall": {
+  "BR_Xsmall": {
     "$type": "Border-Radius",
     "$value": "{XSmall}"
   },
-  "br_Small": {
+  "BR_Small": {
     "$type": "Border-Radius",
     "$value": "{Small}"
   },
-  "br_Medium": {
+  "BR_Medium": {
     "$type": "Border-Radius",
     "$value": "{Medium}"
   },
-  "br_Large": {
+  "BR_Large": {
     "$type": "Border-Radius",
     "$value": "{Large}"
   },
-  "Main_Content": {
+  "TY_Main_Content": {
     "$type": "typography",
     "$value": "{Open sans}"
   },
-  "Secondary_Content": {
+  "TY_Secondary_Content": {
     "$type": "typography",
     "$value": "{Urbanist}"
   },
-  "Icons": {
+  "BW_Icons": {
     "$type": "borderWidth",
     "$value": "{5XSmall}",
     "$description": "Icons border width"
   },
-  "Letter-Spacing_Small": {
+  "LS_Small": {
     "$type": "letterSpacing",
     "$value": "{Percents.percent_Small}"
+  },
+  "FF_Brand": {
+    "$type": "fontFamilies",
+    "$value": "{Urbanist}"
+  },
+  "FF_Content": {
+    "$type": "fontFamilies",
+    "$value": "{Open sans}"
+  },
+  "FS-Default": {
+    "$type": "fontSizes",
+    "$value": "{Medium}"
+  },
+  "FS-Default_Small": {
+    "$type": "fontSizes",
+    "$value": "{Small-Medium}"
   }
 }

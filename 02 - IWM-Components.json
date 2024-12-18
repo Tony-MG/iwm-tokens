@@ -220,15 +220,7 @@
         "$value": "{Colourless.White}"
       }
     },
-    "font-size": {
-      "$type": "fontSizes",
-      "$value": "{Medium}"
-    },
-    "label_font-family": {
-      "$type": "fontFamilies",
-      "$value": "{Urbanist}"
-    },
-    "elements-spacing": {
+    "Elements-spacing": {
       "$type": "spacing",
       "$value": "{2XSmall}"
     },
@@ -238,18 +230,19 @@
     },
     "Label_LS": {
       "$type": "letterSpacing",
-      "$value": "{Letter-Spacing_Small}"
+      "$value": "{LS_Small}"
     }
   },
-  "radius": {
+  "BR_Buttons": {
     "$type": "borderRadius",
     "$value": "{3XSmall}"
   },
-  "Buttons-Label": {
+  "TY_Buttons-Label": {
     "$type": "typography",
     "$value": {
-      "fontFamily": "{Buttons.label_font-family}",
-      "fontSize": "{Buttons.font-size}"
+      "fontFamily": "{FF_Brand}",
+      "fontSize": "{FS-Default}",
+      "letterSpacing": "{Buttons.Label_LS}"
     }
   }
 }

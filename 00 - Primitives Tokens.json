@@ -500,7 +500,7 @@
   "Percents": {
     "percent_Small": {
       "$type": "number",
-      "$value": "2%"
+      "$value": "8%"
     }
   }
 }
