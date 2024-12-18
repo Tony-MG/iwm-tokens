@@ -447,7 +447,7 @@
   },
   "Open Sans": {
     "$type": "fontFamilies",
-    "$value": "Open sans"
+    "$value": "Open Sans"
   },
   "None": {
     "$type": "number",
