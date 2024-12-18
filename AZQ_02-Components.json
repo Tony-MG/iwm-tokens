@@ -296,7 +296,7 @@
       },
       "vertical_Padding": {
         "$type": "spacing",
-        "$value": "{spacing.Medium}"
+        "$value": "{SP_Medium}"
       }
     },
     "Small": {
@@ -306,7 +306,7 @@
       },
       "vertical_Padding": {
         "$type": "spacing",
-        "$value": "{spacing.2xsmall}"
+        "$value": "{SP_2xsmall}"
       }
     }
   },
@@ -338,7 +338,7 @@
     "Small": {
       "Padding": {
         "$type": "spacing",
-        "$value": "{spacing.2xsmall}"
+        "$value": "{SP_2xsmall}"
       }
     }
   }
