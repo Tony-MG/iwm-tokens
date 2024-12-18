@@ -152,6 +152,10 @@
     }
   },
   "Colourless": {
+    "XtraBlack": {
+      "$type": "color",
+      "$value": "#18191D"
+    },
     "Black": {
       "$type": "color",
       "$value": "#1c1f24"
@@ -441,7 +445,7 @@
     "$type": "fontFamilies",
     "$value": "Urbanist"
   },
-  "Open sans": {
+  "Open Sans": {
     "$type": "fontFamilies",
     "$value": "Open sans"
   },
@@ -532,9 +536,5 @@
       "$type": "color",
       "$value": "#FFF6E2"
     }
-  },
-  "Open Sans": {
-    "$type": "fontFamilies",
-    "$value": "Open Sans"
   }
 }

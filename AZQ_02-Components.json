@@ -137,11 +137,11 @@
     "Large": {
       "horizontal_Padding": {
         "$type": "spacing",
-        "$value": "{SP_Xlarge}"
+        "$value": "{SP_Large}"
       },
       "vertical_Padding": {
         "$type": "spacing",
-        "$value": "{SP_Large}"
+        "$value": "{SP_Medium}"
       }
     },
     "Primary": {
@@ -152,7 +152,7 @@
         },
         "content_color": {
           "$type": "color",
-          "$value": "{Colourless.White}"
+          "$value": "{Colourless.XtraBlack}"
         }
       },
       "Hover": {

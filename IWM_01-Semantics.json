@@ -251,7 +251,7 @@
   },
   "TY_Main_Content": {
     "$type": "typography",
-    "$value": "{Open sans}"
+    "$value": "{Open Sans}"
   },
   "TY_Secondary_Content": {
     "$type": "typography",
@@ -272,7 +272,7 @@
   },
   "FF_Content": {
     "$type": "fontFamilies",
-    "$value": "{Open sans}"
+    "$value": "{Open Sans}"
   },
   "FS-Default": {
     "$type": "fontSizes",

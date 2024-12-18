@@ -2,7 +2,7 @@
   "Brand": {
     "Brand_Black": {
       "$type": "color",
-      "$value": "{Colourless.Black}"
+      "$value": "{Colourless.XtraBlack}"
     },
     "Brand_Primary": {
       "$type": "color",
@@ -251,7 +251,7 @@
   },
   "TY_Main_Content": {
     "$type": "typography",
-    "$value": "{Open sans}"
+    "$value": "{Open Sans}"
   },
   "TY_Secondary_Content": {
     "$type": "typography",
@@ -264,22 +264,22 @@
   },
   "LS_Small": {
     "$type": "letterSpacing",
-    "$value": "{Percents.percent_Small}"
+    "$value": "{Percents.percent-XSmall}"
   },
   "FF_Brand": {
     "$type": "fontFamilies",
-    "$value": "{Urbanist}"
+    "$value": "{Open Sans}"
   },
   "FF_Content": {
     "$type": "fontFamilies",
-    "$value": "{Open sans}"
+    "$value": "{Open Sans}"
   },
   "FS-Default": {
     "$type": "fontSizes",
-    "$value": "{Medium}"
+    "$value": "{Small-Medium}"
   },
   "FS-Default_Small": {
     "$type": "fontSizes",
-    "$value": "{Small-Medium}"
+    "$value": "{Small}"
   }
 }

@@ -10,8 +10,11 @@
   },
   {
     "id": "11954842f1de92d50f4eac398b5b22e0bfb2eaae",
-    "name": "BNP",
+    "name": "AZQ",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
+    "selectedTokenSets": {
+      "AZQ_01-Semantics": "enabled",
+      "AZQ_02-Components": "enabled"
+    }
   }
 ]
