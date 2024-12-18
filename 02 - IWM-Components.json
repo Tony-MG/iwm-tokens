@@ -134,13 +134,15 @@
     }
   },
   "Buttons": {
-    "horizontal_Padding": {
-      "$type": "spacing",
-      "$value": "32"
-    },
-    "vertical_Padding": {
-      "$type": "spacing",
-      "$value": "24"
+    "Large": {
+      "horizontal_Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Xlarge}"
+      },
+      "vertical_Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Large}"
+      }
     },
     "Primary": {
       "Default": {
@@ -195,6 +197,10 @@
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
         }
+      },
+      "BW_Prim_Button": {
+        "$type": "borderWidth",
+        "$value": "{None}"
       }
     },
     "Secondary": {
@@ -219,6 +225,55 @@
           },
           "$type": "color",
           "$value": "{Colourless.White}"
+        },
+        "BW_Sec_Button": {
+          "$type": "borderWidth",
+          "$value": "{6XSmall}"
+        }
+      },
+      "Hover": {
+        "BW_Sec_Button": {
+          "$type": "borderWidth",
+          "$value": "{4XSmall}"
+        },
+        "border-color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Primary}"
+        },
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Primary}"
+        },
+        "background-color": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{Colourless.White}"
+        }
+      },
+      "Inactive": {
+        "BW_Sec_Button": {
+          "$type": "borderWidth",
+          "$value": "{6XSmall}"
+        },
+        "border-color": {
+          "$type": "color",
+          "$value": "{Stroke.Inactive}"
+        },
+        "content_color": {
+          "$type": "color",
+          "$value": "{Buttons.Primary.Inactive.content_color}"
+        },
+        "background-color": {
+          "$type": "color",
+          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
         }
       }
     },
@@ -233,6 +288,26 @@
     "Label_LS": {
       "$type": "letterSpacing",
       "$value": "{LS_Small}"
+    },
+    "Medium": {
+      "horizontal_Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Large}"
+      },
+      "vertical_Padding": {
+        "$type": "spacing",
+        "$value": "{spacing.Medium}"
+      }
+    },
+    "Small": {
+      "horizontal_Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Medium}"
+      },
+      "vertical_Padding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xsmall}"
+      }
     }
   },
   "BR_Buttons": {
@@ -245,6 +320,26 @@
       "fontFamily": "{FF_Brand}",
       "fontSize": "{FS-Default}",
       "letterSpacing": "{Buttons.Label_LS}"
+    }
+  },
+  "Icon-Buttons": {
+    "Large": {
+      "Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Large}"
+      }
+    },
+    "Medium": {
+      "Padding": {
+        "$type": "spacing",
+        "$value": "{SP_Medium}"
+      }
+    },
+    "Small": {
+      "Padding": {
+        "$type": "spacing",
+        "$value": "{spacing.2xsmall}"
+      }
     }
   }
 }
