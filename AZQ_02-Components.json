@@ -221,24 +221,15 @@
       "Default": {
         "border-color": {
           "$type": "color",
-          "$value": "{Colourless.None}"
+          "$value": "{Brand.Brand_Black}"
         },
         "content_color": {
           "$type": "color",
-          "$value": "{Brand.Brand_Primary}"
+          "$value": "{Brand.Brand_Black}"
         },
         "background-color": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0",
-                "space": "srgb"
-              }
-            }
-          },
           "$type": "color",
-          "$value": "{Colourless.White}"
+          "$value": "{Colourless.None}"
         },
         "BW_Sec_Button": {
           "$type": "borderWidth",
@@ -277,13 +268,13 @@
           "$type": "borderWidth",
           "$value": "{6XSmall}"
         },
-        "border-color": {
-          "$type": "color",
-          "$value": "{Stroke.Inactive}"
-        },
         "content_color": {
           "$type": "color",
           "$value": "{Buttons.Primary.Inactive.content_color}"
+        },
+        "border-color": {
+          "$type": "color",
+          "$value": "{Stroke.Inactive}"
         },
         "background-color": {
           "$type": "color",
