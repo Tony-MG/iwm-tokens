@@ -280,6 +280,20 @@
           "$type": "color",
           "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
         }
+      },
+      "TEST": {
+        "content_color": {
+          "$type": "color",
+          "$value": "{Pink}"
+        },
+        "border-color": {
+          "$type": "color",
+          "$value": "{Light Blue}"
+        },
+        "background-color": {
+          "$type": "color",
+          "$value": "{Light Green}"
+        }
       }
     },
     "Elements-spacing": {
