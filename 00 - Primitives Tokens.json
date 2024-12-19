@@ -189,6 +189,15 @@
       "$value": "#ffffff"
     },
     "None": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0",
+            "space": "lch"
+          }
+        }
+      },
       "$type": "color",
       "$value": "#ffffff"
     }

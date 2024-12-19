@@ -221,7 +221,7 @@
       "Default": {
         "border-color": {
           "$type": "color",
-          "$value": "{Brand.Brand_Primary}"
+          "$value": "{Colourless.None}"
         },
         "content_color": {
           "$type": "color",
