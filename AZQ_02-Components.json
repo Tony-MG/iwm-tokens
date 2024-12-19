@@ -158,7 +158,7 @@
       "Hover": {
         "background-color": {
           "$type": "color",
-          "$value": "{Backgrounds.Brand.Secondary}"
+          "$value": "{Amber.Amber-600}"
         },
         "content_color": {
           "$type": "color",
@@ -312,7 +312,7 @@
   },
   "BR_Buttons": {
     "$type": "borderRadius",
-    "$value": "{3XSmall}"
+    "$value": "{2XSmall}"
   },
   "TY_Buttons-Label": {
     "$type": "typography",
@@ -320,7 +320,8 @@
       "fontFamily": "{FF_Brand}",
       "fontSize": "{FS-Default}",
       "letterSpacing": "{Buttons.Label_LS}",
-      "fontWeight": "{FW_SemiBold}"
+      "fontWeight": "{FW_SemiBold}",
+      "lineHeight": "{Large}"
     }
   },
   "Icon-Buttons": {
