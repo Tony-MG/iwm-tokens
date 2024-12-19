@@ -280,6 +280,25 @@
           "$type": "color",
           "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
         }
+      },
+      "Focused": {
+        "background-color": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{Colourless.White}"
+        },
+        "border_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Black}"
+        }
       }
     },
     "Elements-spacing": {
