@@ -165,19 +165,6 @@
           "$value": "{Brand.Brand_Black}"
         }
       },
-      "border-color": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0",
-              "space": "srgb"
-            }
-          }
-        },
-        "$type": "color",
-        "$value": "{Colourless.White}"
-      },
       "Inactive": {
         "background-color": {
           "$type": "color",
@@ -298,6 +285,10 @@
         "border_color": {
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
+        },
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Black}"
         }
       }
     },
@@ -331,6 +322,70 @@
       "vertical_Padding": {
         "$type": "spacing",
         "$value": "{SP_2xsmall}"
+      }
+    },
+    "Ghost": {
+      "Default": {
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Black}"
+        },
+        "background-color": {
+          "$type": "color",
+          "$value": "{Colourless.None}"
+        }
+      },
+      "Hover": {
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Black}"
+        },
+        "background-color": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{Colourless.White}"
+        }
+      },
+      "Inactive": {
+        "content_color": {
+          "$type": "color",
+          "$value": "{Buttons.Primary.Inactive.content_color}"
+        },
+        "border-color": {
+          "$type": "color",
+          "$value": "{Stroke.Inactive}"
+        },
+        "background-color": {
+          "$type": "color",
+          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+        }
+      },
+      "Focused": {
+        "content_color": {
+          "$type": "color",
+          "$value": "{Brand.Brand_Black}"
+        },
+        "background-color": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "srgb"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{Colourless.White}"
+        }
       }
     }
   },
