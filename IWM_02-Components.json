@@ -283,6 +283,20 @@
           "$type": "color",
           "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
         }
+      },
+      "Focused": {
+        "border_color": {
+          "$type": "color",
+          "$value": "{System.Infomational-900}"
+        },
+        "content_color": {
+          "$type": "color",
+          "$value": "{Backgrounds.Brand.Primary}"
+        },
+        "background-color": {
+          "$type": "color",
+          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+        }
       }
     },
     "Elements-spacing": {
