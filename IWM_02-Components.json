@@ -153,6 +153,10 @@
         "content_color": {
           "$type": "color",
           "$value": "{Colourless.White}"
+        },
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{None}"
         }
       },
       "Hover": {
@@ -196,11 +200,11 @@
         "content_color": {
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
+        },
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{None}"
         }
-      },
-      "BW_Prim_Button": {
-        "$type": "borderWidth",
-        "$value": "{None}"
       }
     },
     "Secondary": {

@@ -153,6 +153,10 @@
         "content_color": {
           "$type": "color",
           "$value": "{Colourless.XtraBlack}"
+        },
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{None}"
         }
       },
       "Hover": {
@@ -185,10 +189,6 @@
           "$value": "{Brand.Brand_Black}"
         }
       },
-      "BW_Prim_Button": {
-        "$type": "borderWidth",
-        "$value": "{None}"
-      },
       "Focused": {
         "background-color": {
           "$type": "color",
@@ -201,6 +201,10 @@
         "border_color": {
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
+        },
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{4XSmall}"
         }
       }
     },
