@@ -346,5 +346,19 @@
         "$value": "{SP_2xsmall}"
       }
     }
+  },
+  "Tag": {
+    "COL_Tag-bg": {
+      "$type": "color",
+      "$value": "{Brand.Brand_Primary}"
+    },
+    "Tab-Content": {
+      "$type": "color",
+      "$value": "{Colourless.White}"
+    }
+  },
+  "BG_Tag": {
+    "$type": "borderRadius",
+    "$value": "{3XSmall}"
   }
 }
