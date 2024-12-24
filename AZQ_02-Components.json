@@ -389,7 +389,7 @@
       }
     }
   },
-  "BR_Buttons": {
+  "BR_Large-Buttons": {
     "$type": "borderRadius",
     "$value": "{2XSmall}"
   },
