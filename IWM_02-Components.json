@@ -200,7 +200,9 @@
         "content_color": {
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
-        },
+        }
+      },
+      "Selected": {
         "BW_Prim_Button": {
           "$type": "borderWidth",
           "$value": "{None}"
