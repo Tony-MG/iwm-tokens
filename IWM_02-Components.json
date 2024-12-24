@@ -204,6 +204,10 @@
         "BW_Prim_Button": {
           "$type": "borderWidth",
           "$value": "{None}"
+        },
+        "border_color": {
+          "$type": "color",
+          "$value": "{Colourless.None}"
         }
       }
     },
@@ -246,7 +250,7 @@
         },
         "content_color": {
           "$type": "color",
-          "$value": "{Brand.Brand_Primary}"
+          "$value": "{Backgrounds.Brand.Primary}"
         },
         "background-color": {
           "$extensions": {
@@ -300,7 +304,7 @@
       },
       "vertical_Padding": {
         "$type": "spacing",
-        "$value": "{SP_Medium}"
+        "$value": "{SP_2xsmall}"
       }
     },
     "Small": {

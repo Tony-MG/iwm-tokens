@@ -234,11 +234,11 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{Brand.Brand_Primary}"
+          "$value": "{Brand.Brand_Black}"
         },
         "content_color": {
           "$type": "color",
-          "$value": "{Brand.Brand_Primary}"
+          "$value": "{Brand.Brand_Black}"
         },
         "background-color": {
           "$extensions": {
@@ -315,13 +315,13 @@
       },
       "vertical_Padding": {
         "$type": "spacing",
-        "$value": "{SP_Medium}"
+        "$value": "{2XSmall}"
       }
     },
     "Small": {
       "horizontal_Padding": {
         "$type": "spacing",
-        "$value": "{SP_Medium}"
+        "$value": "{SP_Large}"
       },
       "vertical_Padding": {
         "$type": "spacing",
@@ -393,7 +393,7 @@
       }
     }
   },
-  "BR_Large-Buttons": {
+  "BR_Large-Button": {
     "$type": "borderRadius",
     "$value": "{2XSmall}"
   },
@@ -437,8 +437,12 @@
       "$value": "{Colourless.White}"
     }
   },
-  "BG_Tag": {
+  "BR_Medium-Button": {
     "$type": "borderRadius",
-    "$value": "{3XSmall}"
+    "$value": "{2XSmall}"
+  },
+  "BR_Small-Button": {
+    "$type": "borderRadius",
+    "$value": "{4XSmall}"
   }
 }
