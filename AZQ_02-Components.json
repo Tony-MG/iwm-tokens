@@ -172,7 +172,7 @@
       "Inactive": {
         "background-color": {
           "$type": "color",
-          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+          "$value": "{Colourless.None}"
         },
         "content_color": {
           "$type": "color",
@@ -265,11 +265,11 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{Stroke.Inactive}"
+          "$value": "{Colourless.None}"
         },
         "background-color": {
           "$type": "color",
-          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+          "$value": "{Colourless.None}"
         }
       },
       "Focused": {
@@ -365,11 +365,11 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{Stroke.Inactive}"
+          "$value": "{Colourless.None}"
         },
         "background-color": {
           "$type": "color",
-          "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+          "$value": "{Colourless.None}"
         }
       },
       "Focused": {
