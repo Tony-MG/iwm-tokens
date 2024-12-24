@@ -188,7 +188,7 @@
           "$value": "{Texts.Inactive}"
         }
       },
-      "Selected": {
+      "Focused": {
         "background-color": {
           "$type": "color",
           "$value": "{Backgrounds.Colored.Colored-500}"
