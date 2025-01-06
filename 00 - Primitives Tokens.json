@@ -522,6 +522,10 @@
     "percent-XSmall": {
       "$type": "number",
       "$value": "2%"
+    },
+    "XtraLarge": {
+      "$type": "number",
+      "$value": "50%"
     }
   },
   "Amber": {

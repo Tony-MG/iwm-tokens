@@ -378,5 +378,9 @@
   "BG_Tag": {
     "$type": "borderRadius",
     "$value": "{3XSmall}"
+  },
+  "BR_IconButtons": {
+    "$type": "borderRadius",
+    "$value": "{3XSmall}"
   }
 }

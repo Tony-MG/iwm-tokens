@@ -444,5 +444,9 @@
   "BR_Small-Button": {
     "$type": "borderRadius",
     "$value": "{4XSmall}"
+  },
+  "BR_IconButtons": {
+    "$type": "borderRadius",
+    "$value": "{Percents.XtraLarge}"
   }
 }
