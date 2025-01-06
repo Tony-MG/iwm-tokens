@@ -230,7 +230,7 @@
       "Hover": {
         "BW_Sec_Button": {
           "$type": "borderWidth",
-          "$value": "{4XSmall}"
+          "$value": "{6XSmall}"
         },
         "border-color": {
           "$type": "color",
