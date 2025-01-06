@@ -230,7 +230,7 @@
       "Hover": {
         "BW_Sec_Button": {
           "$type": "borderWidth",
-          "$value": "{6XSmall}"
+          "$value": "{4XSmall}"
         },
         "border-color": {
           "$type": "color",
@@ -293,6 +293,12 @@
         "content_color": {
           "$type": "color",
           "$value": "{Brand.Brand_Black}"
+        }
+      },
+      "Focused-copy": {
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{None}"
         }
       }
     },

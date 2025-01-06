@@ -296,6 +296,10 @@
         "background-color": {
           "$type": "color",
           "$value": "{Backgrounds.Neutrals.Neutral_Inactive}"
+        },
+        "BW_Prim_Button": {
+          "$type": "borderWidth",
+          "$value": "{4XSmall}"
         }
       }
     },
