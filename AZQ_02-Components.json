@@ -411,7 +411,7 @@
     "Large": {
       "Padding": {
         "$type": "spacing",
-        "$value": "{SP_Large}"
+        "$value": "{SP_Medium}"
       }
     },
     "Medium": {
